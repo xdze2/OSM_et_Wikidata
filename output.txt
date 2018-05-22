@@ -1,0 +1,2350 @@
+**PA00092249**:   
+ [way85134864](https://www.openstreetmap.org/way/85134864) - [.wd.](https://www.wikidata.org/wiki/Q2967793) - Château Dauphin   
+[way321220308](https://www.openstreetmap.org/way/321220308)  - Château Dauphin   
+
+**PA00101383**:   
+ [way64214029](https://www.openstreetmap.org/way/64214029) - [.wd.](https://www.wikidata.org/wiki/Q22952798) - ...   
+[relation7541984](https://www.openstreetmap.org/relation/7541984) - [.wd.](https://www.wikidata.org/wiki/Q22952798) - ...   
+
+**PA73000013**:   
+ [way208445253](https://www.openstreetmap.org/way/208445253)  - Chapelle Saint-André   
+[way208445393](https://www.openstreetmap.org/way/208445393) - [.wd.](https://www.wikidata.org/wiki/Q22998086) - Ferme de Villarivon   
+
+**PA00084986**:   
+ [node5041577046](https://www.openstreetmap.org/node/5041577046)  - Hôtel du Prêteur Royal   
+[way112046806](https://www.openstreetmap.org/way/112046806) - [.wd.](https://www.wikidata.org/wiki/Q15950866) - Hôtel du prêteur royal   
+
+**PA00103507**:   
+ [node2085914617](https://www.openstreetmap.org/node/2085914617) - [.wd.](https://www.wikidata.org/wiki/Q22953900) - Dolmen de Bruneau C   
+[node2085914618](https://www.openstreetmap.org/node/2085914618)  - Dolmen de Bruneau B   
+
+**PA00107575**:   
+ [node2063752386](https://www.openstreetmap.org/node/2063752386) - [.wd.](https://www.wikidata.org/wiki/Q17402093) - Ancien couvent des Madelonnettes   
+[node2063752391](https://www.openstreetmap.org/node/2063752391)  - Ancien couvent des Madelonnettes   
+
+**PA00135198**:   
+ [node1640575626](https://www.openstreetmap.org/node/1640575626) - [.wd.](https://www.wikidata.org/wiki/Q22975874) - Le Hameau Bellevue   
+[way218140418](https://www.openstreetmap.org/way/218140418) - [.wd.](https://www.wikidata.org/wiki/Q22975874) - Hôtel Bellevue   
+
+**PA62000145**:   
+ [way80250104](https://www.openstreetmap.org/way/80250104)  - ...   
+[way143769560](https://www.openstreetmap.org/way/143769560)  - Abbaye Saint-Paul de Wisques   
+
+**PA00098312**:   
+ [way70159280](https://www.openstreetmap.org/way/70159280)  - La Vieille Donneterie   
+[way542288555](https://www.openstreetmap.org/way/542288555)  - Ferme Industrielle   
+
+**PA00101697**:   
+ [node4959496399](https://www.openstreetmap.org/node/4959496399)  - École de Musique   
+[relation1302703](https://www.openstreetmap.org/relation/1302703)  - Mairie d'Ornans   
+
+**PA21000058**:   
+ [node2634128232](https://www.openstreetmap.org/node/2634128232) - [.wd.](https://www.wikidata.org/wiki/Q3268613) - Lycée Carnot   
+[node3691268163](https://www.openstreetmap.org/node/3691268163)  - Lycée Carnot   
+
+**PA00088648**:   
+ [node257628954](https://www.openstreetmap.org/node/257628954) - [.wd.](https://www.wikidata.org/wiki/Q22924604) - Fontaine Saint-Michel   
+[node5313859516](https://www.openstreetmap.org/node/5313859516)  - ...   
+
+**PA59000113**:   
+ [way152044161](https://www.openstreetmap.org/way/152044161) - [.wd.](https://www.wikidata.org/wiki/Q2820810) - Les Grands Moulins de Paris   
+[way265745713](https://www.openstreetmap.org/way/265745713)  - Abbaye de Marquette   
+
+**PA00092140**:   
+ [way66102472](https://www.openstreetmap.org/way/66102472) - [.wd.](https://www.wikidata.org/wiki/Q22992202) - Hôtel Charrier   
+[way66102520](https://www.openstreetmap.org/way/66102520)  - ...   
+[way66119172](https://www.openstreetmap.org/way/66119172)  - ...   
+
+**PA00092756**:   
+ [node1839081282](https://www.openstreetmap.org/node/1839081282) - [.wd.](https://www.wikidata.org/wiki/Q22932177) - Fontaine des Tables   
+[node2969266777](https://www.openstreetmap.org/node/2969266777)  - Fontaine de l'Ange   
+
+**PA00089358**:   
+ [way119435826](https://www.openstreetmap.org/way/119435826) - [.wd.](https://www.wikidata.org/wiki/Q22925145) - ...   
+[way194163863](https://www.openstreetmap.org/way/194163863)  - ...   
+
+**PA00109302**:   
+ [way151751842](https://www.openstreetmap.org/way/151751842) - [.wd.](https://www.wikidata.org/wiki/Q2820372) - Église Saint-Barthélémy   
+[way151753329](https://www.openstreetmap.org/way/151753329)  - ...   
+[way151753355](https://www.openstreetmap.org/way/151753355)  - ...   
+[way151753563](https://www.openstreetmap.org/way/151753563)  - ...   
+[way151756994](https://www.openstreetmap.org/way/151756994)  - ...   
+[way151760088](https://www.openstreetmap.org/way/151760088)  - ...   
+
+**PA00118100**:   
+ [way265432877](https://www.openstreetmap.org/way/265432877) - [.wd.](https://www.wikidata.org/wiki/Q22968276) - Tour et remparts   
+[way537378263](https://www.openstreetmap.org/way/537378263) - [.wd.](https://www.wikidata.org/wiki/Q22968276) - Tour et remparts   
+[way537378264](https://www.openstreetmap.org/way/537378264) - [.wd.](https://www.wikidata.org/wiki/Q22968276) - Tour et remparts   
+
+**PA00089078**:   
+ [way95906118](https://www.openstreetmap.org/way/95906118) - [.wd.](https://www.wikidata.org/wiki/Q22924873) - Hôtel de Beaumanoir   
+[way221971310](https://www.openstreetmap.org/way/221971310) - [.wd.](https://www.wikidata.org/wiki/Q22924873) - ...   
+
+**PA00095834**:   
+ [way36826996](https://www.openstreetmap.org/way/36826996) - [.wd.](https://www.wikidata.org/wiki/Q3396779) - Pont Vieux   
+[way273172631](https://www.openstreetmap.org/way/273172631) - [.wd.](https://www.wikidata.org/wiki/Q3396779) - Pont Vieux   
+[way273172633](https://www.openstreetmap.org/way/273172633) - [.wd.](https://www.wikidata.org/wiki/Q3396779) - Pont Vieux   
+[way273172634](https://www.openstreetmap.org/way/273172634) - [.wd.](https://www.wikidata.org/wiki/Q3396779) - Pont Vieux   
+[way330163715](https://www.openstreetmap.org/way/330163715) - [.wd.](https://www.wikidata.org/wiki/Q3396779) - Pont Vieux   
+
+**PA00103031**:   
+ [node2371274145](https://www.openstreetmap.org/node/2371274145) - [.wd.](https://www.wikidata.org/wiki/Q22953569) - Sépultures néolithiques de Cante-Perdrix   
+[node5548335960](https://www.openstreetmap.org/node/5548335960)  - Sépultures néolithiques de Cante-Perdrix   
+
+**PA00084990**:   
+ [way111626729](https://www.openstreetmap.org/way/111626729) - [.wd.](https://www.wikidata.org/wiki/Q15945111) - ...   
+[way111626735](https://www.openstreetmap.org/way/111626735)  - Auberge des Alliés   
+
+**PA00113252**:   
+ [node2901449887](https://www.openstreetmap.org/node/2901449887) - [.wd.](https://www.wikidata.org/wiki/Q15948420) - Cité Ouvrière de la Combe des Mineurs   
+[node3629434794](https://www.openstreetmap.org/node/3629434794) - [.wd.](https://www.wikidata.org/wiki/Q15948420) - Cité Ouvrière de la Combe des Mineurs   
+
+**PA00103469**:   
+ [node4739842739](https://www.openstreetmap.org/node/4739842739) - [.wd.](https://www.wikidata.org/wiki/Q2084520) - Château de Laroque   
+[way83594034](https://www.openstreetmap.org/way/83594034)  - Chapelle Saint-Jean de Laroque   
+[way83596420](https://www.openstreetmap.org/way/83596420)  - ...   
+
+**PA00108943**:   
+ [node5056456930](https://www.openstreetmap.org/node/5056456930) - [.wd.](https://www.wikidata.org/wiki/Q3080130) - Fours à chaux de la Veurière   
+[way539886818](https://www.openstreetmap.org/way/539886818) - [.wd.](https://www.wikidata.org/wiki/Q3080130) - Fours à chaux de la Veurière   
+
+**PA00101168**:   
+ [way39683225](https://www.openstreetmap.org/way/39683225) - [.wd.](https://www.wikidata.org/wiki/Q2103655) - Pont du Vernay   
+[way124100670](https://www.openstreetmap.org/way/124100670) - [.wd.](https://www.wikidata.org/wiki/Q2103655) - Pont du Vernay   
+
+**PA39000097**:   
+ [way244302557](https://www.openstreetmap.org/way/244302557)  - Saumoduc de Salins-les-Bains - Arc-et-Senans   
+[way549756735](https://www.openstreetmap.org/way/549756735)  - ...   
+
+**PA00113332**:   
+ [node2885276699](https://www.openstreetmap.org/node/2885276699) - [.wd.](https://www.wikidata.org/wiki/Q22965826) - ...   
+[way52674860](https://www.openstreetmap.org/way/52674860)  - ...   
+
+**PA62000076**:   
+ [node2457003711](https://www.openstreetmap.org/node/2457003711)  - Monument aux Morts de la Première Guerre Mondiale   
+[way169651622](https://www.openstreetmap.org/way/169651622) - [.wd.](https://www.wikidata.org/wiki/Q21619511) - Monument aux Morts de la Première Guerre Mondiale   
+
+**PA00100694**:   
+ [node3681384058](https://www.openstreetmap.org/node/3681384058) - [.wd.](https://www.wikidata.org/wiki/Q1103770) - Ancien prieuré de Graville ou ancienne abbaye de Sainte-Honorine   
+[way76087045](https://www.openstreetmap.org/way/76087045) - [.wd.](https://www.wikidata.org/wiki/Q1103770) - Prieuré de Graville   
+
+**PA00108665**:   
+ [way85440134](https://www.openstreetmap.org/way/85440134) - [.wd.](https://www.wikidata.org/wiki/Q2957287) - Chapelle de l'Oratoire   
+[relation4764940](https://www.openstreetmap.org/relation/4764940) - [.wd.](https://www.wikidata.org/wiki/Q3145566) - Hôtel Lelasseur   
+
+**PA00102615**:   
+ [way242105050](https://www.openstreetmap.org/way/242105050) - [.wd.](https://www.wikidata.org/wiki/Q22953429) - Pont-Vieux   
+[relation1797189](https://www.openstreetmap.org/relation/1797189) - [.wd.](https://www.wikidata.org/wiki/Q22953429) - Pont-Vieux   
+
+**PA00093752**:   
+ [way186971215](https://www.openstreetmap.org/way/186971215)  - Église Sainte-Croix et Saint-Pierre   
+[way273259202](https://www.openstreetmap.org/way/273259202) - [.wd.](https://www.wikidata.org/wiki/Q22936770) - Église Sainte-Croix et Saint-Pierre   
+
+**PA00091176**:   
+ [node2601022408](https://www.openstreetmap.org/node/2601022408)  - ...   
+[way252875454](https://www.openstreetmap.org/way/252875454) - [.wd.](https://www.wikidata.org/wiki/Q2956800) - Chapelle Saint-Clément   
+
+**PA00092351**:   
+ [way150518335](https://www.openstreetmap.org/way/150518335) - [.wd.](https://www.wikidata.org/wiki/Q22929292) - Château de Saint-Diéry   
+[way311485698](https://www.openstreetmap.org/way/311485698)  - Château de Saint-Diéry   
+
+**PA00103409**:   
+ [way27515227](https://www.openstreetmap.org/way/27515227) - [.wd.](https://www.wikidata.org/wiki/Q2968791) - Aqueduc de Castries   
+[way130360311](https://www.openstreetmap.org/way/130360311)  - Aqueduc de Castries   
+
+**PA59000007**:   
+ [way39633478](https://www.openstreetmap.org/way/39633478) - [.wd.](https://www.wikidata.org/wiki/Q22979727) - La Tour   
+[way142799676](https://www.openstreetmap.org/way/142799676)  - ...   
+
+**PA00135150**:   
+ [node5041577045](https://www.openstreetmap.org/node/5041577045)  - Ancien Hôpital Bourgeois   
+[way111785980](https://www.openstreetmap.org/way/111785980) - [.wd.](https://www.wikidata.org/wiki/Q15950355) - ...   
+
+**PA00117121**:   
+ [node1957514820](https://www.openstreetmap.org/node/1957514820) - [.wd.](https://www.wikidata.org/wiki/Q22966936) - Château de Beauvoir - Donjon   
+[node1957514865](https://www.openstreetmap.org/node/1957514865)  - Château de Beauvoir - Grande chapelle   
+[way185190923](https://www.openstreetmap.org/way/185190923) - [.wd.](https://www.wikidata.org/wiki/Q22966936) - Château de Beauvoir - Mur d'enceinte   
+
+**PA00109574**:   
+ [way361410302](https://www.openstreetmap.org/way/361410302) - [.wd.](https://www.wikidata.org/wiki/Q1646064) - Abbaye de Clermont (porterie)   
+[way361410303](https://www.openstreetmap.org/way/361410303)  - Abbaye de Clermont   
+
+**PA00135239**:   
+ [way141615080](https://www.openstreetmap.org/way/141615080) - [.wd.](https://www.wikidata.org/wiki/Q3535521) - Tour Saint-Paul   
+[way198085167](https://www.openstreetmap.org/way/198085167)  - Tour Saint-Pierre   
+
+**PA00095042**:   
+ [node3068013578](https://www.openstreetmap.org/node/3068013578) - [.wd.](https://www.wikidata.org/wiki/Q635127) - Ancien prieuré ou château   
+[way302416476](https://www.openstreetmap.org/way/302416476) - [.wd.](https://www.wikidata.org/wiki/Q2212729) - Église du prieuré Saint-Pierre   
+
+**PA00085185**:   
+ [way46875444](https://www.openstreetmap.org/way/46875444) - [.wd.](https://www.wikidata.org/wiki/Q3361224) - ...   
+[way46875445](https://www.openstreetmap.org/way/46875445)  - ...   
+[relation368604](https://www.openstreetmap.org/relation/368604) - [.wd.](https://www.wikidata.org/wiki/Q3361224) - Palais Universitaire   
+
+**PA00118278**:   
+ [way182995548](https://www.openstreetmap.org/way/182995548)  - Hôtel Nicolle de La Place   
+[way182995909](https://www.openstreetmap.org/way/182995909) - [.wd.](https://www.wikidata.org/wiki/Q22968561) - Hôtel de Ville   
+
+**PA00089072**:   
+ [way95900382](https://www.openstreetmap.org/way/95900382) - [.wd.](https://www.wikidata.org/wiki/Q22924869) - ...   
+[way179861315](https://www.openstreetmap.org/way/179861315) - [.wd.](https://www.wikidata.org/wiki/Q22924869) - Chapelle du couvent des Bénédictines   
+
+**PA00107630**:   
+ [node2063752972](https://www.openstreetmap.org/node/2063752972) - [.wd.](https://www.wikidata.org/wiki/Q22960815) - Immeubles   
+[node2063752980](https://www.openstreetmap.org/node/2063752980)  - Immeubles   
+[node2063752982](https://www.openstreetmap.org/node/2063752982)  - Immeubles   
+
+**PA90000007**:   
+ [node4612633789](https://www.openstreetmap.org/node/4612633789) - [.wd.](https://www.wikidata.org/wiki/Q22980762) - École Jules Heidet   
+[relation2136957](https://www.openstreetmap.org/relation/2136957) - [.wd.](https://www.wikidata.org/wiki/Q22980762) - École   
+[relation7352037](https://www.openstreetmap.org/relation/7352037) - [.wd.](https://www.wikidata.org/wiki/Q22980762) - École Jules Heidet   
+
+**PA00107295**:   
+ [node5041464913](https://www.openstreetmap.org/node/5041464913)  - ...   
+[way147234234](https://www.openstreetmap.org/way/147234234) - [.wd.](https://www.wikidata.org/wiki/Q334277) - Abbatiale Saint-Gondelbert   
+
+**PA00092881**:   
+ [way292205687](https://www.openstreetmap.org/way/292205687) - [.wd.](https://www.wikidata.org/wiki/Q18736805) - Enceinte du Château   
+[way301668396](https://www.openstreetmap.org/way/301668396)  - Château de Saint-Vidal   
+
+**PA17000015**:   
+ [way427851134](https://www.openstreetmap.org/way/427851134)  - Hopital Saint-Honoré   
+[relation308616](https://www.openstreetmap.org/relation/308616) - [.wd.](https://www.wikidata.org/wiki/Q22995915) - Citadelle et Forteresse de Saint-Martin-de-Ré   
+
+**PA00089482**:   
+ [way77969366](https://www.openstreetmap.org/way/77969366) - [.wd.](https://www.wikidata.org/wiki/Q22925226) - Chapelle du Château de Keralio   
+[way77996685](https://www.openstreetmap.org/way/77996685) - [.wd.](https://www.wikidata.org/wiki/Q22925226) - Château de Kéralio   
+
+**PA00098229**:   
+ [way44013840](https://www.openstreetmap.org/way/44013840) - [.wd.](https://www.wikidata.org/wiki/Q22942441) - ...   
+[way528149641](https://www.openstreetmap.org/way/528149641) - [.wd.](https://www.wikidata.org/wiki/Q22942441) - ...   
+
+**PA51000008**:   
+ [way238184364](https://www.openstreetmap.org/way/238184364) - [.wd.](https://www.wikidata.org/wiki/Q17402090) - ...   
+[way238184367](https://www.openstreetmap.org/way/238184367)  - ...   
+[way238184369](https://www.openstreetmap.org/way/238184369)  - Château de Bignicourt sur Saulx   
+[way238184371](https://www.openstreetmap.org/way/238184371)  - Chapelle   
+
+**PA00107709**:   
+ [node2063753634](https://www.openstreetmap.org/node/2063753634) - [.wd.](https://www.wikidata.org/wiki/Q22960898) - Maisons   
+[node2063753640](https://www.openstreetmap.org/node/2063753640)  - Maisons   
+[node2063753647](https://www.openstreetmap.org/node/2063753647)  - Maisons   
+[node2063753668](https://www.openstreetmap.org/node/2063753668)  - Maisons   
+[node2063753675](https://www.openstreetmap.org/node/2063753675)  - Maisons   
+[node2063753682](https://www.openstreetmap.org/node/2063753682)  - Maisons   
+[node2063753688](https://www.openstreetmap.org/node/2063753688)  - Maisons   
+[node2063753695](https://www.openstreetmap.org/node/2063753695)  - Maisons   
+[node2063753703](https://www.openstreetmap.org/node/2063753703)  - Maisons   
+[node2063753714](https://www.openstreetmap.org/node/2063753714)  - Maisons   
+
+**PA00087740**:   
+ [way74624354](https://www.openstreetmap.org/way/74624354) - [.wd.](https://www.wikidata.org/wiki/Q22924009) - ...   
+[way74625737](https://www.openstreetmap.org/way/74625737)  - Maison de quartier   
+[way74627416](https://www.openstreetmap.org/way/74627416)  - ...   
+
+**PA00107617**:   
+ [node2063753102](https://www.openstreetmap.org/node/2063753102) - [.wd.](https://www.wikidata.org/wiki/Q22960798) - Immeubles   
+[node2063753106](https://www.openstreetmap.org/node/2063753106)  - Immeubles   
+[node2063753109](https://www.openstreetmap.org/node/2063753109)  - Immeubles   
+
+**PA00100674**:   
+ [node3681384059](https://www.openstreetmap.org/node/3681384059) - [.wd.](https://www.wikidata.org/wiki/Q5118733) - Château d'Orcher   
+[way129957809](https://www.openstreetmap.org/way/129957809) - [.wd.](https://www.wikidata.org/wiki/Q5118733) - Château d'Orcher   
+
+**PA00086086**:   
+ [node691775283](https://www.openstreetmap.org/node/691775283) - [.wd.](https://www.wikidata.org/wiki/Q669850) - Réaumur - Sébastopol   
+[node5312375391](https://www.openstreetmap.org/node/5312375391)  - ...   
+[node5312375392](https://www.openstreetmap.org/node/5312375392)  - ...   
+[node5312375393](https://www.openstreetmap.org/node/5312375393)  - ...   
+[node5312375394](https://www.openstreetmap.org/node/5312375394)  - ...   
+
+**PA00097136**:   
+ [way540223622](https://www.openstreetmap.org/way/540223622) - [.wd.](https://www.wikidata.org/wiki/Q22940819) - Pont de Noailles   
+[way540223623](https://www.openstreetmap.org/way/540223623) - [.wd.](https://www.wikidata.org/wiki/Q22940819) - Pont de Noailles   
+
+**PA00102098**:   
+ [way114491547](https://www.openstreetmap.org/way/114491547) - [.wd.](https://www.wikidata.org/wiki/Q22953319) - Chapelle de Baudin   
+[way353326041](https://www.openstreetmap.org/way/353326041)  - Château des forges de Baudin   
+[way353326046](https://www.openstreetmap.org/way/353326046)  - Forges de Baudin   
+[way353326057](https://www.openstreetmap.org/way/353326057)  - ...   
+
+**PA00117446**:   
+ [node3548854536](https://www.openstreetmap.org/node/3548854536) - [.wd.](https://www.wikidata.org/wiki/Q22967179) - Prieuré Bénédictin   
+[way410936472](https://www.openstreetmap.org/way/410936472) - [.wd.](https://www.wikidata.org/wiki/Q22967179) - Église Saint-Sébastien et Saint-Domnin   
+
+**PA00085183**:   
+ [way44502668](https://www.openstreetmap.org/way/44502668) - [.wd.](https://www.wikidata.org/wiki/Q643186) - ...   
+[relation226986](https://www.openstreetmap.org/relation/226986) - [.wd.](https://www.wikidata.org/wiki/Q643186) - Palais du Rhin   
+
+**PA00089096**:   
+ [way95902029](https://www.openstreetmap.org/way/95902029) - [.wd.](https://www.wikidata.org/wiki/Q22924894) - ...   
+[way95906971](https://www.openstreetmap.org/way/95906971) - [.wd.](https://www.wikidata.org/wiki/Q22924894) - ...   
+
+**PA00081940**:   
+ [way83749210](https://www.openstreetmap.org/way/83749210) - [.wd.](https://www.wikidata.org/wiki/Q17635838) - Chapelle Saint-Louis   
+[way83756563](https://www.openstreetmap.org/way/83756563) - [.wd.](https://www.wikidata.org/wiki/Q17635838) - ...   
+[way83782447](https://www.openstreetmap.org/way/83782447) - [.wd.](https://www.wikidata.org/wiki/Q17635838) - Hôtel Cloître Saint-Louis   
+
+**PA00093803**:   
+ [node5476080863](https://www.openstreetmap.org/node/5476080863) - [.wd.](https://www.wikidata.org/wiki/Q22936917) - Chapelle du cimetière de Bensa   
+[way62708412](https://www.openstreetmap.org/way/62708412)  - Chapelle de la Gleysette   
+
+**PA00107718**:   
+ [node2063753575](https://www.openstreetmap.org/node/2063753575) - [.wd.](https://www.wikidata.org/wiki/Q22960906) - Maisons   
+[node2063753582](https://www.openstreetmap.org/node/2063753582)  - Maisons   
+[node2063753591](https://www.openstreetmap.org/node/2063753591)  - Maisons   
+[node2063753598](https://www.openstreetmap.org/node/2063753598)  - Maisons   
+[node2063753609](https://www.openstreetmap.org/node/2063753609)  - Maisons   
+[node2063753619](https://www.openstreetmap.org/node/2063753619)  - Maisons   
+
+**PA47000068**:   
+ [way175732697](https://www.openstreetmap.org/way/175732697) - [.wd.](https://www.wikidata.org/wiki/Q20127525) - Église Saint-Jean-Baptiste   
+[way175741597](https://www.openstreetmap.org/way/175741597) - [.wd.](https://www.wikidata.org/wiki/Q20127525) - ...   
+
+**PA00107625**:   
+ [node2063753001](https://www.openstreetmap.org/node/2063753001) - [.wd.](https://www.wikidata.org/wiki/Q22960807) - Immeubles   
+[node2063753016](https://www.openstreetmap.org/node/2063753016)  - Immeubles   
+[node2063753035](https://www.openstreetmap.org/node/2063753035)  - Immeubles   
+[node2063753045](https://www.openstreetmap.org/node/2063753045)  - Immeubles   
+[node2063753054](https://www.openstreetmap.org/node/2063753054)  - Immeubles   
+
+**PA00109807**:   
+ [way151507154](https://www.openstreetmap.org/way/151507154) - [.wd.](https://www.wikidata.org/wiki/Q914087) - Enceinte romaine   
+[way151507155](https://www.openstreetmap.org/way/151507155)  - Enceinte romaine   
+[way151507156](https://www.openstreetmap.org/way/151507156)  - Enceinte romaine   
+
+**PA00107275**:   
+ [way27099694](https://www.openstreetmap.org/way/27099694) - [.wd.](https://www.wikidata.org/wiki/Q2942323) - Cathédrale Saint-Dié   
+[relation318738](https://www.openstreetmap.org/relation/318738) - [.wd.](https://www.wikidata.org/wiki/Q2942323) - ...   
+
+**PA75100007**:   
+ [way29709952](https://www.openstreetmap.org/way/29709952) - [.wd.](https://www.wikidata.org/wiki/Q1567455) - Passage Brady   
+[way111652423](https://www.openstreetmap.org/way/111652423) - [.wd.](https://www.wikidata.org/wiki/Q1567455) - Passage Brady   
+[way111652425](https://www.openstreetmap.org/way/111652425) - [.wd.](https://www.wikidata.org/wiki/Q1567455) - Passage Brady   
+[way111652428](https://www.openstreetmap.org/way/111652428) - [.wd.](https://www.wikidata.org/wiki/Q1567455) - Passage Brady   
+[way111652429](https://www.openstreetmap.org/way/111652429) - [.wd.](https://www.wikidata.org/wiki/Q1567455) - Passage Brady   
+
+**PA00107595**:   
+ [node2063752542](https://www.openstreetmap.org/node/2063752542) - [.wd.](https://www.wikidata.org/wiki/Q22960789) - Hôtel Cardon de Montreuil   
+[node2063752545](https://www.openstreetmap.org/node/2063752545)  - Hôtel Cardon de Montreuil   
+
+**PA00101763**:   
+ [node4422268889](https://www.openstreetmap.org/node/4422268889)  - Bailliage (auditoire et prisons)   
+[way65757803](https://www.openstreetmap.org/way/65757803) - [.wd.](https://www.wikidata.org/wiki/Q13518174) - Bibliothèque Municipale   
+
+**PA00088485**:   
+ [way95860808](https://www.openstreetmap.org/way/95860808) - [.wd.](https://www.wikidata.org/wiki/Q2957340) - Chapelle Sainte-Ursule   
+[relation572440](https://www.openstreetmap.org/relation/572440) - [.wd.](https://www.wikidata.org/wiki/Q214654) - ...   
+
+**PA00088050**:   
+ [node5261855713](https://www.openstreetmap.org/node/5261855713) - [.wd.](https://www.wikidata.org/wiki/Q2971253) - Château de la Grange   
+[way133510711](https://www.openstreetmap.org/way/133510711) - [.wd.](https://www.wikidata.org/wiki/Q2971253) - Château du Maréchal de Saxe   
+
+**PA00092695**:   
+ [way370040781](https://www.openstreetmap.org/way/370040781)  - Château de Vernassal   
+[way370040786](https://www.openstreetmap.org/way/370040786)  - ...   
+
+**PA00086727**:   
+ [node822185534](https://www.openstreetmap.org/node/822185534) - [.wd.](https://www.wikidata.org/wiki/Q1511335) - Villiers - 1 - Avenue de Villiers   
+[node5313847659](https://www.openstreetmap.org/node/5313847659)  - Métropolitain, station Villiers   
+
+**PA00083890**:   
+ [node5512496514](https://www.openstreetmap.org/node/5512496514) - [.wd.](https://www.wikidata.org/wiki/Q3402353) - Ancien Presbytère   
+[way425092379](https://www.openstreetmap.org/way/425092379) - [.wd.](https://www.wikidata.org/wiki/Q3402353) - Ancien Presbytère   
+
+**PA00086552**:   
+ [node440749834](https://www.openstreetmap.org/node/440749834) - [.wd.](https://www.wikidata.org/wiki/Q1315757) - Rue Saint-Maur   
+[node5313392782](https://www.openstreetmap.org/node/5313392782)  - ...   
+
+**PA62000095**:   
+ [way105087338](https://www.openstreetmap.org/way/105087338) - [.wd.](https://www.wikidata.org/wiki/Q22997451) - Temple   
+[way326361517](https://www.openstreetmap.org/way/326361517)  - Temple protestant   
+
+**PA00100585**:   
+ [way509329499](https://www.openstreetmap.org/way/509329499)  - Halles de Buchy   
+[way509329500](https://www.openstreetmap.org/way/509329500)  - Halles de Buchy   
+
+**PA00085991**:   
+ [way53601032](https://www.openstreetmap.org/way/53601032) - [.wd.](https://www.wikidata.org/wiki/Q3538874) - Tribunal de commerce de Paris   
+[relation536982](https://www.openstreetmap.org/relation/536982) - [.wd.](https://www.wikidata.org/wiki/Q143080) - Palais de Justice de Paris   
+
+**PA00110197**:   
+ [node5301072128](https://www.openstreetmap.org/node/5301072128) - [.wd.](https://www.wikidata.org/wiki/Q22963045) - Château de la Métairie   
+[way121887597](https://www.openstreetmap.org/way/121887597) - [.wd.](https://www.wikidata.org/wiki/Q22963045) - Château de la Métairie   
+
+**PA00085828**:   
+ [relation542282](https://www.openstreetmap.org/relation/542282) - [.wd.](https://www.wikidata.org/wiki/Q22920977) - Ancien hôtel de Latour-Maubourg   
+[relation542284](https://www.openstreetmap.org/relation/542284) - [.wd.](https://www.wikidata.org/wiki/Q22920977) - Ancien hôtel de Latour-Maubourg   
+
+**PA56000058**:   
+ [way244483227](https://www.openstreetmap.org/way/244483227) - [.wd.](https://www.wikidata.org/wiki/Q22997265) - ...   
+[way244486605](https://www.openstreetmap.org/way/244486605) - [.wd.](https://www.wikidata.org/wiki/Q22997265) - Manoir du Plessis Rebours   
+[way244486660](https://www.openstreetmap.org/way/244486660)  - Chapelle Notre-Dame de Toute Aide   
+
+**PA59000148**:   
+ [node2063752667](https://www.openstreetmap.org/node/2063752667) - [.wd.](https://www.wikidata.org/wiki/Q22979895) - Immeuble   
+[node2063752670](https://www.openstreetmap.org/node/2063752670)  - Immeuble   
+[node2063752674](https://www.openstreetmap.org/node/2063752674)  - Immeuble   
+
+**PA00092843**:   
+ [way292205623](https://www.openstreetmap.org/way/292205623) - [.wd.](https://www.wikidata.org/wiki/Q22932568) - Chapelle du Château de Flaghac   
+[way292205634](https://www.openstreetmap.org/way/292205634)  - Château de Flaghac   
+
+**PA00085063**:   
+ [way39609222](https://www.openstreetmap.org/way/39609222) - [.wd.](https://www.wikidata.org/wiki/Q2377788) - Hôtel de la Préfecture   
+[way39609238](https://www.openstreetmap.org/way/39609238)  - ...   
+
+**PA00113242**:   
+ [node2688708854](https://www.openstreetmap.org/node/2688708854) - [.wd.](https://www.wikidata.org/wiki/Q22965751) - Maison romane, et maison gothique   
+[node3629445843](https://www.openstreetmap.org/node/3629445843)  - Maison romane, et maison gothique   
+[way51574000](https://www.openstreetmap.org/way/51574000)  - Maison romane, et maison gothique   
+
+**PA00108716**:   
+ [way85439531](https://www.openstreetmap.org/way/85439531) - [.wd.](https://www.wikidata.org/wiki/Q17354660) - ...   
+[relation1273619](https://www.openstreetmap.org/relation/1273619) - [.wd.](https://www.wikidata.org/wiki/Q17354660) - ...   
+
+**PA59000107**:   
+ [node4382773127](https://www.openstreetmap.org/node/4382773127) - [.wd.](https://www.wikidata.org/wiki/Q3399034) - Porte de Dunkerque   
+[relation6554024](https://www.openstreetmap.org/relation/6554024) - [.wd.](https://www.wikidata.org/wiki/Q3399034) - Porte de Dunkerque   
+
+**PA00105374**:   
+ [way66344051](https://www.openstreetmap.org/way/66344051) - [.wd.](https://www.wikidata.org/wiki/Q22955831) - Église Notre-Dame   
+[way136849764](https://www.openstreetmap.org/way/136849764) - [.wd.](https://www.wikidata.org/wiki/Q22955831) - Église Notre-Dame de Chalais   
+
+**PA00107653**:   
+ [node2063753125](https://www.openstreetmap.org/node/2063753125) - [.wd.](https://www.wikidata.org/wiki/Q22960844) - Immeubles   
+[node2063753129](https://www.openstreetmap.org/node/2063753129)  - Immeubles   
+
+**PA00109747**:   
+ [way150426571](https://www.openstreetmap.org/way/150426571) - [.wd.](https://www.wikidata.org/wiki/Q22962550) - Couvent de Bethanie   
+[way150427885](https://www.openstreetmap.org/way/150427885)  - ...   
+[way292841403](https://www.openstreetmap.org/way/292841403)  - ...   
+
+**PA00107690**:   
+ [node2063753624](https://www.openstreetmap.org/node/2063753624) - [.wd.](https://www.wikidata.org/wiki/Q22960878) - Maisons   
+[node2063753627](https://www.openstreetmap.org/node/2063753627)  - Maisons   
+
+**PA00107646**:   
+ [node2063752873](https://www.openstreetmap.org/node/2063752873) - [.wd.](https://www.wikidata.org/wiki/Q22960837) - Immeubles   
+[node2063752875](https://www.openstreetmap.org/node/2063752875)  - Immeubles   
+
+**PA00092388**:   
+ [node2297677357](https://www.openstreetmap.org/node/2297677357) - [.wd.](https://www.wikidata.org/wiki/Q2970587) - Château de Saint-Saturnin   
+[way151114239](https://www.openstreetmap.org/way/151114239) - [.wd.](https://www.wikidata.org/wiki/Q2970587) - Ancien château fort   
+[way151115586](https://www.openstreetmap.org/way/151115586)  - Ancien château fort   
+
+**PA00085195**:   
+ [way40142952](https://www.openstreetmap.org/way/40142952) - [.wd.](https://www.wikidata.org/wiki/Q3286397) - Villa Ostlerloff   
+[way41342365](https://www.openstreetmap.org/way/41342365)  - ...   
+
+**PA72000042**:   
+ [way242081528](https://www.openstreetmap.org/way/242081528)  - Rotonde ferroviaire de Montabon   
+[relation8210955](https://www.openstreetmap.org/relation/8210955) - [.wd.](https://www.wikidata.org/wiki/Q3443011) - ...   
+
+**PA00096927**:   
+ [node1813691699](https://www.openstreetmap.org/node/1813691699) - [.wd.](https://www.wikidata.org/wiki/Q22940656) - ...   
+[node2038181364](https://www.openstreetmap.org/node/2038181364)  - Maison   
+
+**PA00086494**:   
+ [way63200644](https://www.openstreetmap.org/way/63200644)  - Chapelle de l'hôpital Saint-Louis   
+[relation983300](https://www.openstreetmap.org/relation/983300)  - Hôpital Saint-Louis   
+
+**PA00132795**:   
+ [way107813661](https://www.openstreetmap.org/way/107813661) - [.wd.](https://www.wikidata.org/wiki/Q22975628) - Porte de ville   
+[way310312784](https://www.openstreetmap.org/way/310312784)  - Porte de ville   
+
+**PA00107649**:   
+ [node2063752819](https://www.openstreetmap.org/node/2063752819) - [.wd.](https://www.wikidata.org/wiki/Q22960840) - Immeubles   
+[node2063752821](https://www.openstreetmap.org/node/2063752821)  - Immeubles   
+
+**PA50000031**:   
+ [node2199502251](https://www.openstreetmap.org/node/2199502251) - [.wd.](https://www.wikidata.org/wiki/Q3286186) - Manoir de Gonneville   
+[way129172816](https://www.openstreetmap.org/way/129172816) - [.wd.](https://www.wikidata.org/wiki/Q3286186) - Chapelle des Marins de Gonneville   
+
+**PA00107180**:   
+ [node2490025867](https://www.openstreetmap.org/node/2490025867) - [.wd.](https://www.wikidata.org/wiki/Q2844405) - ...   
+[way128190801](https://www.openstreetmap.org/way/128190801) - [.wd.](https://www.wikidata.org/wiki/Q2844405) - Amphithéâtre de Grand   
+
+**PA00078794**:   
+ [way41455924](https://www.openstreetmap.org/way/41455924) - [.wd.](https://www.wikidata.org/wiki/Q17347079) - Square des Jacobins   
+[way92303084](https://www.openstreetmap.org/way/92303084)  - Reims Cérès   
+
+**PA64000047**:   
+ [way169353396](https://www.openstreetmap.org/way/169353396)  - Moulin de Gramont   
+[way187144255](https://www.openstreetmap.org/way/187144255)  - Pont de Gramont   
+[way538588208](https://www.openstreetmap.org/way/538588208)  - ...   
+
+**PA00085986**:   
+ [node5312369220](https://www.openstreetmap.org/node/5312369220)  - ...   
+[way20326709](https://www.openstreetmap.org/way/20326709) - [.wd.](https://www.wikidata.org/wiki/Q1431547) - Tour Saint-Jacques   
+
+**PA00098340**:   
+ [node4928031995](https://www.openstreetmap.org/node/4928031995)  - Ancien collège des Jésuites   
+[way118647334](https://www.openstreetmap.org/way/118647334)  - ...   
+
+**PA00102711**:   
+ [way184266392](https://www.openstreetmap.org/way/184266392) - [.wd.](https://www.wikidata.org/wiki/Q334259) - Abbaye Sainte-Marie d'Orbieu   
+[way198641298](https://www.openstreetmap.org/way/198641298)  - Abbatiale   
+[way234090417](https://www.openstreetmap.org/way/234090417)  - Abbaye Sainte-Marie d'Orbieu   
+[way234090420](https://www.openstreetmap.org/way/234090420)  - Clocher   
+[way422967480](https://www.openstreetmap.org/way/422967480)  - Abbaye Sainte-Marie de Lagrasse   
+
+**PA49000024**:   
+ [way507984238](https://www.openstreetmap.org/way/507984238) - [.wd.](https://www.wikidata.org/wiki/Q2860742) - Chevalement   
+[relation8082049](https://www.openstreetmap.org/relation/8082049) - [.wd.](https://www.wikidata.org/wiki/Q2860742) - Ardoisières de la Pouëze   
+
+**PA00086601**:   
+ [node493340480](https://www.openstreetmap.org/node/493340480) - [.wd.](https://www.wikidata.org/wiki/Q587093) - ...   
+[node5313588575](https://www.openstreetmap.org/node/5313588575)  - ...   
+
+**PA00084147**:   
+ [node4268763736](https://www.openstreetmap.org/node/4268763736)  - ...   
+[way444199444](https://www.openstreetmap.org/way/444199444) - [.wd.](https://www.wikidata.org/wiki/Q18736716) - Halle du marché   
+
+**PA00081185**:   
+ [way102061424](https://www.openstreetmap.org/way/102061424) - [.wd.](https://www.wikidata.org/wiki/Q15953118) - ...   
+[way102109681](https://www.openstreetmap.org/way/102109681) - [.wd.](https://www.wikidata.org/wiki/Q15953118) - ...   
+
+**PA25000007**:   
+ [way161747733](https://www.openstreetmap.org/way/161747733) - [.wd.](https://www.wikidata.org/wiki/Q2820568) - ...   
+[way161748060](https://www.openstreetmap.org/way/161748060)  - ...   
+[way161748101](https://www.openstreetmap.org/way/161748101)  - ...   
+
+**PA00092674**:   
+ [way293373554](https://www.openstreetmap.org/way/293373554) - [.wd.](https://www.wikidata.org/wiki/Q22931896) - Donjon du Château de la Clauze   
+[way442710941](https://www.openstreetmap.org/way/442710941)  - Château de la Clauze   
+
+**PA71000024**:   
+ [way227182584](https://www.openstreetmap.org/way/227182584) - [.wd.](https://www.wikidata.org/wiki/Q2969313) - Château de Meix-Berthaud   
+[way247859178](https://www.openstreetmap.org/way/247859178)  - Château de Meix-Berthaud   
+
+**PA00090320**:   
+ [way310581709](https://www.openstreetmap.org/way/310581709) - [.wd.](https://www.wikidata.org/wiki/Q22926244) - Église Saint-Ouen   
+[relation311766](https://www.openstreetmap.org/relation/311766) - [.wd.](https://www.wikidata.org/wiki/Q22926244) - Hôtel de Blossac   
+
+**PA00102727**:   
+ [way186119183](https://www.openstreetmap.org/way/186119183) - [.wd.](https://www.wikidata.org/wiki/Q370664) - Cabaret   
+[way186119197](https://www.openstreetmap.org/way/186119197) - [.wd.](https://www.wikidata.org/wiki/Q370664) - Régine   
+[way186119223](https://www.openstreetmap.org/way/186119223) - [.wd.](https://www.wikidata.org/wiki/Q370664) - Surdespine   
+[way186119228](https://www.openstreetmap.org/way/186119228) - [.wd.](https://www.wikidata.org/wiki/Q370664) - Quertinheux   
+
+**PA00087713**:   
+ [way74621863](https://www.openstreetmap.org/way/74621863) - [.wd.](https://www.wikidata.org/wiki/Q22923974) - ...   
+[way74622680](https://www.openstreetmap.org/way/74622680)  - ...   
+[way74623492](https://www.openstreetmap.org/way/74623492)  - ...   
+[way74624876](https://www.openstreetmap.org/way/74624876)  - ...   
+[way74626544](https://www.openstreetmap.org/way/74626544)  - ...   
+
+**PA00086613**:   
+ [way32530611](https://www.openstreetmap.org/way/32530611) - [.wd.](https://www.wikidata.org/wiki/Q646264) - Fondation Suisse   
+[way353020220](https://www.openstreetmap.org/way/353020220) - [.wd.](https://www.wikidata.org/wiki/Q646264) - ...   
+
+**PA00118149**:   
+ [node4921340132](https://www.openstreetmap.org/node/4921340132)  - Réservoirs d'aqueduc du Vallon d'Arche (vestiges)   
+[way130435852](https://www.openstreetmap.org/way/130435852) - [.wd.](https://www.wikidata.org/wiki/Q2859234) - Aqueduc des monts d'Or   
+[way130435854](https://www.openstreetmap.org/way/130435854) - [.wd.](https://www.wikidata.org/wiki/Q2859234) - Aqueduc des monts d'Or   
+
+**PA00107633**:   
+ [node2063753076](https://www.openstreetmap.org/node/2063753076) - [.wd.](https://www.wikidata.org/wiki/Q22960820) - Immeubles   
+[node2063753080](https://www.openstreetmap.org/node/2063753080)  - Immeubles   
+
+**PA00113155**:   
+ [way288790429](https://www.openstreetmap.org/way/288790429)  - ...   
+[relation1967166](https://www.openstreetmap.org/relation/1967166) - [.wd.](https://www.wikidata.org/wiki/Q22965667) - Musée   
+
+**PA00107334**:   
+ [way121731226](https://www.openstreetmap.org/way/121731226) - [.wd.](https://www.wikidata.org/wiki/Q22960596) - Tribune   
+[way121732011](https://www.openstreetmap.org/way/121732011)  - Pavillon de lawn-tennis   
+
+**PA72000040**:   
+ [way161890585](https://www.openstreetmap.org/way/161890585) - [.wd.](https://www.wikidata.org/wiki/Q19952952) - ...   
+[way507964473](https://www.openstreetmap.org/way/507964473) - [.wd.](https://www.wikidata.org/wiki/Q19952952) - ...   
+
+**PA00107611**:   
+ [node2063752408](https://www.openstreetmap.org/node/2063752408) - [.wd.](https://www.wikidata.org/wiki/Q22960793) - Ancien hôtel   
+[node2063752411](https://www.openstreetmap.org/node/2063752411)  - Ancien hôtel   
+
+**PA00116869**:   
+ [way158343314](https://www.openstreetmap.org/way/158343314) - [.wd.](https://www.wikidata.org/wiki/Q2971448) - Chapelle des Princes   
+[way158344957](https://www.openstreetmap.org/way/158344957)  - Château   
+[way376764308](https://www.openstreetmap.org/way/376764308)  - ...   
+
+**PA00105196**:   
+ [node2108952383](https://www.openstreetmap.org/node/2108952383) - [.wd.](https://www.wikidata.org/wiki/Q20971030) - Les Pierres Closes (dolmen)   
+[node2108952425](https://www.openstreetmap.org/node/2108952425)  - Les Pierres Closes (dolmen)   
+
+**PA00118068**:   
+ [way128971606](https://www.openstreetmap.org/way/128971606) - [.wd.](https://www.wikidata.org/wiki/Q22968233) - Aqueduc du Gier   
+[way128971617](https://www.openstreetmap.org/way/128971617)  - Aqueduc du Gier   
+
+**PA00107335**:   
+ [way121732038](https://www.openstreetmap.org/way/121732038)  - Palmarium   
+[way121732057](https://www.openstreetmap.org/way/121732057)  - Source des Demoiselles   
+[relation1663964](https://www.openstreetmap.org/relation/1663964) - [.wd.](https://www.wikidata.org/wiki/Q22960598) - Thermes de Vittel   
+
+**PA67000046**:   
+ [way40469009](https://www.openstreetmap.org/way/40469009) - [.wd.](https://www.wikidata.org/wiki/Q14627731) - Grand Établissement Municipal de Bains   
+[way40469010](https://www.openstreetmap.org/way/40469010)  - Bains Médicinaux   
+
+**PA00098262**:   
+ [node5127161076](https://www.openstreetmap.org/node/5127161076)  - Pavillons de l'octroi   
+[relation7603658](https://www.openstreetmap.org/relation/7603658)  - Pavillons de l'Octroi   
+
+**PA00104494**:   
+ [way72621016](https://www.openstreetmap.org/way/72621016) - [.wd.](https://www.wikidata.org/wiki/Q2969300) - Château de Garde-Épée   
+[way72621898](https://www.openstreetmap.org/way/72621898) - [.wd.](https://www.wikidata.org/wiki/Q2969300) - Château de Garde-Épée   
+
+**PA00087709**:   
+ [way74621460](https://www.openstreetmap.org/way/74621460) - [.wd.](https://www.wikidata.org/wiki/Q22923967) - ...   
+[way74624446](https://www.openstreetmap.org/way/74624446)  - ...   
+[way74628867](https://www.openstreetmap.org/way/74628867)  - ...   
+[way74631055](https://www.openstreetmap.org/way/74631055)  - ...   
+[way74631870](https://www.openstreetmap.org/way/74631870)  - ...   
+
+**PA00093713**:   
+ [way148256517](https://www.openstreetmap.org/way/148256517) - [.wd.](https://www.wikidata.org/wiki/Q22936608) - Église Saint-Caprais   
+[relation6126432](https://www.openstreetmap.org/relation/6126432)  - Église de la Nativité-de-Saint-Jean-Baptiste   
+
+**PA00084275**:   
+ [way119646624](https://www.openstreetmap.org/way/119646624) - [.wd.](https://www.wikidata.org/wiki/Q20669861) - Tour romaine d'Eysses   
+[way559015208](https://www.openstreetmap.org/way/559015208) - [.wd.](https://www.wikidata.org/wiki/Q20669861) - Site antique d'Eysses   
+
+**PA00107658**:   
+ [node2063753096](https://www.openstreetmap.org/node/2063753096) - [.wd.](https://www.wikidata.org/wiki/Q22960852) - Immeubles   
+[node2063753099](https://www.openstreetmap.org/node/2063753099)  - Immeubles   
+
+**PA34000005**:   
+ [node449578219](https://www.openstreetmap.org/node/449578219) - [.wd.](https://www.wikidata.org/wiki/Q586271) - ...   
+[way97225241](https://www.openstreetmap.org/way/97225241) - [.wd.](https://www.wikidata.org/wiki/Q586271) - ...   
+[way97674598](https://www.openstreetmap.org/way/97674598) - [.wd.](https://www.wikidata.org/wiki/Q586271) - Canal du Midi   
+[way200992894](https://www.openstreetmap.org/way/200992894) - [.wd.](https://www.wikidata.org/wiki/Q586271) - ...   
+[way200995501](https://www.openstreetmap.org/way/200995501) - [.wd.](https://www.wikidata.org/wiki/Q586271) - ...   
+[way200995502](https://www.openstreetmap.org/way/200995502) - [.wd.](https://www.wikidata.org/wiki/Q586271) - ...   
+[way200995503](https://www.openstreetmap.org/way/200995503) - [.wd.](https://www.wikidata.org/wiki/Q586271) - ...   
+[way200995504](https://www.openstreetmap.org/way/200995504) - [.wd.](https://www.wikidata.org/wiki/Q586271) - ...   
+[way200995505](https://www.openstreetmap.org/way/200995505) - [.wd.](https://www.wikidata.org/wiki/Q586271) - ...   
+[way451622433](https://www.openstreetmap.org/way/451622433) - [.wd.](https://www.wikidata.org/wiki/Q586271) - Canal du Midi   
+[way451622439](https://www.openstreetmap.org/way/451622439) - [.wd.](https://www.wikidata.org/wiki/Q586271) - Canal du Midi   
+[way462178785](https://www.openstreetmap.org/way/462178785) - [.wd.](https://www.wikidata.org/wiki/Q586271) - Canal du Midi   
+[way462178786](https://www.openstreetmap.org/way/462178786) - [.wd.](https://www.wikidata.org/wiki/Q586271) - ...   
+[way462178787](https://www.openstreetmap.org/way/462178787) - [.wd.](https://www.wikidata.org/wiki/Q586271) - ...   
+[way462178790](https://www.openstreetmap.org/way/462178790) - [.wd.](https://www.wikidata.org/wiki/Q586271) - ...   
+[way462178791](https://www.openstreetmap.org/way/462178791) - [.wd.](https://www.wikidata.org/wiki/Q586271) - ...   
+[way462178792](https://www.openstreetmap.org/way/462178792) - [.wd.](https://www.wikidata.org/wiki/Q586271) - ...   
+[way462178793](https://www.openstreetmap.org/way/462178793) - [.wd.](https://www.wikidata.org/wiki/Q586271) - ...   
+
+**PA00103767**:   
+ [way99849564](https://www.openstreetmap.org/way/99849564) - [.wd.](https://www.wikidata.org/wiki/Q22954201) - Château   
+[way99851762](https://www.openstreetmap.org/way/99851762)  - Château   
+
+**PA00081117**:   
+ [way102072555](https://www.openstreetmap.org/way/102072555) - [.wd.](https://www.wikidata.org/wiki/Q334060) - Église abbatiale Notre-Dame   
+[relation1451754](https://www.openstreetmap.org/relation/1451754) - [.wd.](https://www.wikidata.org/wiki/Q334060) - Cloître   
+
+**PA00108468**:   
+ [way317725673](https://www.openstreetmap.org/way/317725673) - [.wd.](https://www.wikidata.org/wiki/Q3079693) - Fosse du 9-9bis de la Compagnie des Mines de Dourges   
+[way319605929](https://www.openstreetmap.org/way/319605929)  - Cité Declercq   
+
+**PA26000004**:   
+ [way97482016](https://www.openstreetmap.org/way/97482016) - [.wd.](https://www.wikidata.org/wiki/Q17354333) - Villa des Cigales   
+[way97495648](https://www.openstreetmap.org/way/97495648)  - Villa Margot   
+[way419902051](https://www.openstreetmap.org/way/419902051)  - Clos Genest   
+
+**PA00116832**:   
+ [way229750004](https://www.openstreetmap.org/way/229750004)  - Chapelle du Lycée   
+[relation1481979](https://www.openstreetmap.org/relation/1481979) - [.wd.](https://www.wikidata.org/wiki/Q3268684) - Lycée Gabriel Faure   
+
+**PA00088509**:   
+ [way62287173](https://www.openstreetmap.org/way/62287173) - [.wd.](https://www.wikidata.org/wiki/Q22924488) - Église Saint-Germain des Prés   
+[way495635817](https://www.openstreetmap.org/way/495635817) - [.wd.](https://www.wikidata.org/wiki/Q22924488) - Chapelle Saint-Symphorien   
+
+**PA00081815**:   
+ [way83762702](https://www.openstreetmap.org/way/83762702)  - ...   
+[way83769147](https://www.openstreetmap.org/way/83769147)  - Pont Saint-Bénezet   
+
+**PA41000001**:   
+ [node4927180870](https://www.openstreetmap.org/node/4927180870)  - Chocolaterie Poulain   
+[relation7346084](https://www.openstreetmap.org/relation/7346084)  - Chocolaterie Poulain   
+
+**PA25000036**:   
+ [node3140101175](https://www.openstreetmap.org/node/3140101175) - [.wd.](https://www.wikidata.org/wiki/Q18195265) - Château de Lods   
+[way166130126](https://www.openstreetmap.org/way/166130126) - [.wd.](https://www.wikidata.org/wiki/Q18195265) - Château de Lods   
+
+**PA00089079**:   
+ [way95900466](https://www.openstreetmap.org/way/95900466) - [.wd.](https://www.wikidata.org/wiki/Q22924874) - ...   
+[way95903518](https://www.openstreetmap.org/way/95903518) - [.wd.](https://www.wikidata.org/wiki/Q22924874) - ...   
+
+**PA00087270**:   
+ [node4235931489](https://www.openstreetmap.org/node/4235931489)  - Église   
+[way115352968](https://www.openstreetmap.org/way/115352968) - [.wd.](https://www.wikidata.org/wiki/Q14551314) - Église Saint-Loup   
+
+**PA00080835**:   
+ [way143707285](https://www.openstreetmap.org/way/143707285) - [.wd.](https://www.wikidata.org/wiki/Q13516903) - ...   
+[way143707395](https://www.openstreetmap.org/way/143707395) - [.wd.](https://www.wikidata.org/wiki/Q13516903) - ...   
+[way143707628](https://www.openstreetmap.org/way/143707628) - [.wd.](https://www.wikidata.org/wiki/Q13516903) - ...   
+[way143712994](https://www.openstreetmap.org/way/143712994) - [.wd.](https://www.wikidata.org/wiki/Q13516903) - ...   
+
+**PA00107254**:   
+ [node2482552032](https://www.openstreetmap.org/node/2482552032)  - Deux Fontaines (fontaine de Neptune et fontaine d'Amphitrite)   
+[node2482552033](https://www.openstreetmap.org/node/2482552033)  - Fontaine d'Amphitrite   
+
+**PA00094627**:   
+ [way305162356](https://www.openstreetmap.org/way/305162356) - [.wd.](https://www.wikidata.org/wiki/Q1460090) - Pont Neuf   
+[way315778508](https://www.openstreetmap.org/way/315778508)  - Pont Neuf   
+
+**PA00086229**:   
+ [node707827510](https://www.openstreetmap.org/node/707827510) - [.wd.](https://www.wikidata.org/wiki/Q1660212) - Temple   
+[node5313359008](https://www.openstreetmap.org/node/5313359008)  - ...   
+
+**PA81000019**:   
+ [way62844296](https://www.openstreetmap.org/way/62844296)  - Château de Sauveterre   
+[way284165347](https://www.openstreetmap.org/way/284165347) - [.wd.](https://www.wikidata.org/wiki/Q21294322) - Château de Sauveterre   
+
+**PA00107610**:   
+ [node2063752623](https://www.openstreetmap.org/node/2063752623) - [.wd.](https://www.wikidata.org/wiki/Q22960792) - Hôtel particulier   
+[node2063752626](https://www.openstreetmap.org/node/2063752626)  - Hôtel particulier   
+[node2063752630](https://www.openstreetmap.org/node/2063752630)  - Hôtel particulier   
+[node2063752633](https://www.openstreetmap.org/node/2063752633)  - Hôtel particulier   
+[node2063752637](https://www.openstreetmap.org/node/2063752637)  - Hôtel particulier   
+
+**PA49000026**:   
+ [way182948059](https://www.openstreetmap.org/way/182948059) - [.wd.](https://www.wikidata.org/wiki/Q2969889) - Église Saint-Pierre   
+[way182949307](https://www.openstreetmap.org/way/182949307)  - Château de Milly-le-Meugon   
+[way182950318](https://www.openstreetmap.org/way/182950318)  - ...   
+
+**PA00107596**:   
+ [node2063752596](https://www.openstreetmap.org/node/2063752596) - [.wd.](https://www.wikidata.org/wiki/Q17595712) - Hôtel des Cariatides   
+[node2063752600](https://www.openstreetmap.org/node/2063752600)  - Hôtel des Cariatides   
+[node2063752604](https://www.openstreetmap.org/node/2063752604)  - Hôtel des Cariatides   
+[node2063752607](https://www.openstreetmap.org/node/2063752607)  - Hôtel des Cariatides   
+
+**PA00132965**:   
+ [node3757189416](https://www.openstreetmap.org/node/3757189416) - [.wd.](https://www.wikidata.org/wiki/Q22975807) - Ancienne Poudrière   
+[way125966156](https://www.openstreetmap.org/way/125966156) - [.wd.](https://www.wikidata.org/wiki/Q22975807) - Ancienne poudrière   
+
+**PA33000028**:   
+ [node5332049297](https://www.openstreetmap.org/node/5332049297) - [.wd.](https://www.wikidata.org/wiki/Q2962319) - ...   
+[node5332049298](https://www.openstreetmap.org/node/5332049298) - [.wd.](https://www.wikidata.org/wiki/Q2962319) - ...   
+[node5332049299](https://www.openstreetmap.org/node/5332049299) - [.wd.](https://www.wikidata.org/wiki/Q2962319) - ...   
+[way107605466](https://www.openstreetmap.org/way/107605466) - [.wd.](https://www.wikidata.org/wiki/Q2962319) - Chemin de Croix   
+[way552228054](https://www.openstreetmap.org/way/552228054) - [.wd.](https://www.wikidata.org/wiki/Q2962319) - Chapelle du Saint-Sépulcre   
+[way552228055](https://www.openstreetmap.org/way/552228055) - [.wd.](https://www.wikidata.org/wiki/Q2962319) - ...   
+[way552228056](https://www.openstreetmap.org/way/552228056) - [.wd.](https://www.wikidata.org/wiki/Q2962319) - ...   
+[way552228057](https://www.openstreetmap.org/way/552228057) - [.wd.](https://www.wikidata.org/wiki/Q2962319) - ...   
+[way552228058](https://www.openstreetmap.org/way/552228058) - [.wd.](https://www.wikidata.org/wiki/Q2962319) - ...   
+[way552228059](https://www.openstreetmap.org/way/552228059) - [.wd.](https://www.wikidata.org/wiki/Q2962319) - ...   
+[way552228060](https://www.openstreetmap.org/way/552228060) - [.wd.](https://www.wikidata.org/wiki/Q2962319) - ...   
+[way552228061](https://www.openstreetmap.org/way/552228061) - [.wd.](https://www.wikidata.org/wiki/Q2962319) - ...   
+[way552228062](https://www.openstreetmap.org/way/552228062) - [.wd.](https://www.wikidata.org/wiki/Q2962319) - ...   
+[way552228063](https://www.openstreetmap.org/way/552228063) - [.wd.](https://www.wikidata.org/wiki/Q2962319) - ...   
+[way552228064](https://www.openstreetmap.org/way/552228064) - [.wd.](https://www.wikidata.org/wiki/Q2962319) - ...   
+[way552228065](https://www.openstreetmap.org/way/552228065) - [.wd.](https://www.wikidata.org/wiki/Q2962319) - ...   
+[way552228066](https://www.openstreetmap.org/way/552228066) - [.wd.](https://www.wikidata.org/wiki/Q2962319) - ...   
+[way552228067](https://www.openstreetmap.org/way/552228067) - [.wd.](https://www.wikidata.org/wiki/Q2962319) - ...   
+[way552228069](https://www.openstreetmap.org/way/552228069) - [.wd.](https://www.wikidata.org/wiki/Q2962319) - ...   
+[way552228075](https://www.openstreetmap.org/way/552228075) - [.wd.](https://www.wikidata.org/wiki/Q2962319) - Chapelle de la Sainte-Agonie   
+
+**PA00086696**:   
+ [node1003130771](https://www.openstreetmap.org/node/1003130771) - [.wd.](https://www.wikidata.org/wiki/Q927829) - Chardon Lagache   
+[node5313588568](https://www.openstreetmap.org/node/5313588568)  - ...   
+
+**PA00092354**:   
+ [way180926935](https://www.openstreetmap.org/way/180926935) - [.wd.](https://www.wikidata.org/wiki/Q15954116) - Église Haute   
+[way338222609](https://www.openstreetmap.org/way/338222609)  - Ossuaire   
+
+**PA00117273**:   
+ [node4421890290](https://www.openstreetmap.org/node/4421890290) - [.wd.](https://www.wikidata.org/wiki/Q22967045) - Villa gallo-romaine (vestiges)   
+[way425642913](https://www.openstreetmap.org/way/425642913) - [.wd.](https://www.wikidata.org/wiki/Q42713703) - Site archéologique du Vernai   
+
+**PA00117084**:   
+ [way95640252](https://www.openstreetmap.org/way/95640252) - [.wd.](https://www.wikidata.org/wiki/Q2820323) - Église Notre-Dame-de-Soyons   
+[way109885213](https://www.openstreetmap.org/way/109885213)  - Ancienne Abbaye Notre-Dame de Soyons   
+
+**PA00089372**:   
+ [way77814329](https://www.openstreetmap.org/way/77814329) - [.wd.](https://www.wikidata.org/wiki/Q2956697) - Chapelle Notre-Dame de Port-Blanc   
+[way77815098](https://www.openstreetmap.org/way/77815098)  - Croix   
+
+**PA66000018**:   
+ [way64089951](https://www.openstreetmap.org/way/64089951) - [.wd.](https://www.wikidata.org/wiki/Q15950369) - Ancienne Église de l'Hôpital Militaire   
+[way64090161](https://www.openstreetmap.org/way/64090161) - [.wd.](https://www.wikidata.org/wiki/Q15950369) - Ancien Hôpital militaire   
+
+**PA00108404**:   
+ [node4926724418](https://www.openstreetmap.org/node/4926724418)  - Ancien collège des Jésuites Anglais   
+[way166832429](https://www.openstreetmap.org/way/166832429)  - Ancien Collège des Jésuites Anglais   
+
+**PA34000074**:   
+ [way135810920](https://www.openstreetmap.org/way/135810920)  - Anciens entrepôts Dubonnet   
+[way135810974](https://www.openstreetmap.org/way/135810974)  - Anciens entrepôts Dubonnet   
+[way135811399](https://www.openstreetmap.org/way/135811399)  - Anciens entrepôts Dubonnet   
+[way135815861](https://www.openstreetmap.org/way/135815861)  - Anciens entrepôts Dubonnet   
+[way135830813](https://www.openstreetmap.org/way/135830813)  - Anciens entrepôts Dubonnet   
+
+**PA00107745**:   
+ [way52169199](https://www.openstreetmap.org/way/52169199) - [.wd.](https://www.wikidata.org/wiki/Q22960918) - Béguinage des Cantuaines   
+[relation7471287](https://www.openstreetmap.org/relation/7471287) - [.wd.](https://www.wikidata.org/wiki/Q22960918) - Béguinage des Cantunaines   
+
+**PA00107704**:   
+ [node2063753339](https://www.openstreetmap.org/node/2063753339) - [.wd.](https://www.wikidata.org/wiki/Q22960893) - Maison   
+[node2063753346](https://www.openstreetmap.org/node/2063753346)  - Maison   
+
+**PA39000041**:   
+ [way82841011](https://www.openstreetmap.org/way/82841011) - [.wd.](https://www.wikidata.org/wiki/Q3146102) - ...   
+[way258003882](https://www.openstreetmap.org/way/258003882)  - ...   
+[way258003884](https://www.openstreetmap.org/way/258003884)  - ...   
+[way258003887](https://www.openstreetmap.org/way/258003887)  - ...   
+[way258003889](https://www.openstreetmap.org/way/258003889)  - ...   
+
+**PA00089081**:   
+ [way95902369](https://www.openstreetmap.org/way/95902369) - [.wd.](https://www.wikidata.org/wiki/Q22924876) - ...   
+[way95902556](https://www.openstreetmap.org/way/95902556) - [.wd.](https://www.wikidata.org/wiki/Q22924876) - ...   
+
+**PA00101911**:   
+ [way82836135](https://www.openstreetmap.org/way/82836135) - [.wd.](https://www.wikidata.org/wiki/Q22953125) - ...   
+[way82850638](https://www.openstreetmap.org/way/82850638)  - ...   
+[relation3521484](https://www.openstreetmap.org/relation/3521484) - [.wd.](https://www.wikidata.org/wiki/Q22953125) - ...   
+
+**PA00083019**:   
+ [node297922546](https://www.openstreetmap.org/node/297922546) - [.wd.](https://www.wikidata.org/wiki/Q2242266) - Château de Losse   
+[way483761713](https://www.openstreetmap.org/way/483761713) - [.wd.](https://www.wikidata.org/wiki/Q2242266) - Château de Losse   
+
+**PA00113467**:   
+ [node2571160543](https://www.openstreetmap.org/node/2571160543) - [.wd.](https://www.wikidata.org/wiki/Q22965770) - Croix de pierre (également sur commune de Dezize-les-Maranges)   
+[node3629346335](https://www.openstreetmap.org/node/3629346335) - [.wd.](https://www.wikidata.org/wiki/Q3003379) - Croix de Pierre   
+
+**PA00086910**:   
+ [way227533728](https://www.openstreetmap.org/way/227533728) - [.wd.](https://www.wikidata.org/wiki/Q2969554) - Chapelle   
+[way227534487](https://www.openstreetmap.org/way/227534487)  - Château de La Grange-Bléneau   
+
+**PA00107242**:   
+ [node1745736257](https://www.openstreetmap.org/node/1745736257) - [.wd.](https://www.wikidata.org/wiki/Q22960526) - Fontaine du Bonheur   
+[node1745736276](https://www.openstreetmap.org/node/1745736276)  - La Pomme de Pin   
+[node1745736280](https://www.openstreetmap.org/node/1745736280)  - L'Enfant   
+[node1745736286](https://www.openstreetmap.org/node/1745736286)  - La Chèvre   
+[node1745736290](https://www.openstreetmap.org/node/1745736290)  - La Concorde   
+[node1745736294](https://www.openstreetmap.org/node/1745736294)  - Les Quatre Lions   
+[node1745736300](https://www.openstreetmap.org/node/1745736300)  - L’Automne   
+[node1745736304](https://www.openstreetmap.org/node/1745736304)  - L’Enfant et le Cygne   
+[node1745736309](https://www.openstreetmap.org/node/1745736309)  - Minerve   
+[node1754153435](https://www.openstreetmap.org/node/1754153435)  - Diane de Gabies   
+[node1754153436](https://www.openstreetmap.org/node/1754153436)  - Les Trois Coliches   
+
+**PA00109692**:   
+ [node2476953244](https://www.openstreetmap.org/node/2476953244)  - Château de Bourg-le-Roi   
+[way239926420](https://www.openstreetmap.org/way/239926420) - [.wd.](https://www.wikidata.org/wiki/Q22962512) - ...   
+[way239926423](https://www.openstreetmap.org/way/239926423)  - ...   
+[way239926424](https://www.openstreetmap.org/way/239926424)  - ...   
+[way362247733](https://www.openstreetmap.org/way/362247733)  - ...   
+[way362247734](https://www.openstreetmap.org/way/362247734)  - ...   
+[way362247736](https://www.openstreetmap.org/way/362247736)  - ...   
+
+**PA00081945**:   
+ [node5218322626](https://www.openstreetmap.org/node/5218322626)  - ...   
+[relation1253215](https://www.openstreetmap.org/relation/1253215) - [.wd.](https://www.wikidata.org/wiki/Q22919067) - ...   
+
+**PA00101150**:   
+ [node2491408138](https://www.openstreetmap.org/node/2491408138)  - Église Saint-Pierre   
+[way205621125](https://www.openstreetmap.org/way/205621125) - [.wd.](https://www.wikidata.org/wiki/Q22952248) - Église Saint-Pierre   
+
+**PA67000078**:   
+ [way40114917](https://www.openstreetmap.org/way/40114917) - [.wd.](https://www.wikidata.org/wiki/Q15952958) - Pfälzerhaus   
+[way40114925](https://www.openstreetmap.org/way/40114925)  - ...   
+
+**PA00103685**:   
+ [way435613468](https://www.openstreetmap.org/way/435613468) - [.wd.](https://www.wikidata.org/wiki/Q2820551) - ...   
+[way435614774](https://www.openstreetmap.org/way/435614774) - [.wd.](https://www.wikidata.org/wiki/Q2820551) - Ancienne église   
+
+**PA00089300**:   
+ [node3037590036](https://www.openstreetmap.org/node/3037590036) - [.wd.](https://www.wikidata.org/wiki/Q2263240) - ...   
+[way46161991](https://www.openstreetmap.org/way/46161991)  - Château de Rosanbo   
+
+**PA00112599**:   
+ [way324070678](https://www.openstreetmap.org/way/324070678) - [.wd.](https://www.wikidata.org/wiki/Q22964927) - Église Saint-Marc   
+[way324070816](https://www.openstreetmap.org/way/324070816)  - Église Saint-Martin   
+
+**PA00105443**:   
+ [way64223511](https://www.openstreetmap.org/way/64223511) - [.wd.](https://www.wikidata.org/wiki/Q22955912) - Église Saint-Michel   
+[way75918018](https://www.openstreetmap.org/way/75918018) - [.wd.](https://www.wikidata.org/wiki/Q22955912) - Église Saint-Nicolas   
+
+**PA00107647**:   
+ [node2063752836](https://www.openstreetmap.org/node/2063752836) - [.wd.](https://www.wikidata.org/wiki/Q22960838) - Immeubles   
+[node2063752839](https://www.openstreetmap.org/node/2063752839)  - Immeubles   
+[node2063752853](https://www.openstreetmap.org/node/2063752853)  - Immeubles   
+[node2063752856](https://www.openstreetmap.org/node/2063752856)  - Immeubles   
+[node2063752859](https://www.openstreetmap.org/node/2063752859)  - Immeubles   
+[node2063752862](https://www.openstreetmap.org/node/2063752862)  - Immeubles   
+
+**PA66000023**:   
+ [way62515030](https://www.openstreetmap.org/way/62515030) - [.wd.](https://www.wikidata.org/wiki/Q782033) - Four Solaire d'Odeillo - CNRS   
+[way186037953](https://www.openstreetmap.org/way/186037953)  - Four solaire d'Odeillo   
+
+**PA05000010**:   
+ [way171757709](https://www.openstreetmap.org/way/171757709) - [.wd.](https://www.wikidata.org/wiki/Q18380153) - ...   
+[way189112174](https://www.openstreetmap.org/way/189112174)  - ...   
+[way251693761](https://www.openstreetmap.org/way/251693761)  - Télébenne des Gondrans   
+
+**PA00109870**:   
+ [node4022760835](https://www.openstreetmap.org/node/4022760835)  - ...   
+[way25055230](https://www.openstreetmap.org/way/25055230) - [.wd.](https://www.wikidata.org/wiki/Q3390103) - Place Saint-Michel   
+[way467214006](https://www.openstreetmap.org/way/467214006)  - Place Saint-Michel   
+[way467214246](https://www.openstreetmap.org/way/467214246)  - Place Saint-Michel   
+
+**PA00086784**:   
+ [node3612399011](https://www.openstreetmap.org/node/3612399011) - [.wd.](https://www.wikidata.org/wiki/Q1577219) - Alexandre-Dumas   
+[node5313847647](https://www.openstreetmap.org/node/5313847647)  - ...   
+
+**PA00101762**:   
+ [node4422138692](https://www.openstreetmap.org/node/4422138692)  - ...   
+[way444763772](https://www.openstreetmap.org/way/444763772) - [.wd.](https://www.wikidata.org/wiki/Q22953008) - Potager   
+
+**PA00086787**:   
+ [node1300079812](https://www.openstreetmap.org/node/1300079812) - [.wd.](https://www.wikidata.org/wiki/Q1785459) - Philippe Auguste   
+[node5313856738](https://www.openstreetmap.org/node/5313856738)  - ...   
+
+**PA62000088**:   
+ [way82372085](https://www.openstreetmap.org/way/82372085) - [.wd.](https://www.wikidata.org/wiki/Q3117924) - École Jean Macé   
+[way82372137](https://www.openstreetmap.org/way/82372137)  - École Jean Macé   
+
+**PA00109833**:   
+ [way44742202](https://www.openstreetmap.org/way/44742202) - [.wd.](https://www.wikidata.org/wiki/Q22962592) - Compagnons du Devoir   
+[way161882450](https://www.openstreetmap.org/way/161882450)  - Hôtel Legras du Luart   
+
+**PA00091074**:   
+ [way27017427](https://www.openstreetmap.org/way/27017427) - [.wd.](https://www.wikidata.org/wiki/Q2179460) - Alignement du Ménec   
+[way27017436](https://www.openstreetmap.org/way/27017436) - [.wd.](https://www.wikidata.org/wiki/Q2179460) - Alignement du Ménec   
+
+**PA00092116**:   
+ [way318462420](https://www.openstreetmap.org/way/318462420) - [.wd.](https://www.wikidata.org/wiki/Q2240741) - Château d'Effiat   
+[way318462425](https://www.openstreetmap.org/way/318462425)  - Château d'Effiat   
+
+**PA00103951**:   
+ [way30099965](https://www.openstreetmap.org/way/30099965) - [.wd.](https://www.wikidata.org/wiki/Q3396343) - Aqueduc Romain   
+[way107037145](https://www.openstreetmap.org/way/107037145) - [.wd.](https://www.wikidata.org/wiki/Q3396343) - Aqueduc Romain   
+
+**PA00108198**:   
+ [node3495166530](https://www.openstreetmap.org/node/3495166530)  - Ancien Hôpital Cazin-Perrochaud   
+[way132178449](https://www.openstreetmap.org/way/132178449) - [.wd.](https://www.wikidata.org/wiki/Q22961779) - Ancien Hôpital Cazin-Perrochaud   
+
+**PA00087149**:   
+ [node4294059792](https://www.openstreetmap.org/node/4294059792) - [.wd.](https://www.wikidata.org/wiki/Q22922943) - Bornes à fleur de lys n°s 25 et 26   
+[node4294104489](https://www.openstreetmap.org/node/4294104489)  - Bornes à fleur de lys n°s 25 et 26   
+
+**PA00091706**:   
+ [node4972708923](https://www.openstreetmap.org/node/4972708923)  - Alignements de Saint-Pierre   
+[way62055525](https://www.openstreetmap.org/way/62055525)  - Alignements de Saint-Pierre   
+
+**PA00113269**:   
+ [node670014358](https://www.openstreetmap.org/node/670014358) - [.wd.](https://www.wikidata.org/wiki/Q22965772) - Deux tumuli-dolmens du Mont-de-Senne ou de Borgy   
+[node670014359](https://www.openstreetmap.org/node/670014359)  - Deux tumuli-dolmens du Mont-de-Senne ou de Borgy   
+
+**PA00108906**:   
+ [node2890214007](https://www.openstreetmap.org/node/2890214007) - [.wd.](https://www.wikidata.org/wiki/Q3583166) - Immeuble   
+[way126922652](https://www.openstreetmap.org/way/126922652) - [.wd.](https://www.wikidata.org/wiki/Q3583166) - Presbytère de Saint-Michel-la-Palud   
+
+**PA00118220**:   
+ [way544596098](https://www.openstreetmap.org/way/544596098) - [.wd.](https://www.wikidata.org/wiki/Q15616899) - Entrée du Tunnel de Brison   
+[way544596423](https://www.openstreetmap.org/way/544596423) - [.wd.](https://www.wikidata.org/wiki/Q15616899) - Entrée du Tunnel de Brison   
+
+**PA00107688**:   
+ [node2063753723](https://www.openstreetmap.org/node/2063753723) - [.wd.](https://www.wikidata.org/wiki/Q22960876) - Maisons   
+[node2063753735](https://www.openstreetmap.org/node/2063753735)  - Maisons   
+
+**PA00086581**:   
+ [node264490283](https://www.openstreetmap.org/node/264490283) - [.wd.](https://www.wikidata.org/wiki/Q589686) - Picpus   
+[node5313588579](https://www.openstreetmap.org/node/5313588579)  - ...   
+
+**PA00089115**:   
+ [node1648624008](https://www.openstreetmap.org/node/1648624008) - [.wd.](https://www.wikidata.org/wiki/Q3145930) - ...   
+[way95906262](https://www.openstreetmap.org/way/95906262)  - ...   
+
+**PA00109115**:   
+ [way217669232](https://www.openstreetmap.org/way/217669232) - [.wd.](https://www.wikidata.org/wiki/Q3584788) - Église Saint-Étienne   
+[way230449916](https://www.openstreetmap.org/way/230449916) - [.wd.](https://www.wikidata.org/wiki/Q3584788) - Église   
+
+**PA00086545**:   
+ [node5313368608](https://www.openstreetmap.org/node/5313368608)  - ...   
+[node5313368609](https://www.openstreetmap.org/node/5313368609)  - ...   
+
+**PA00132961**:   
+ [way53274470](https://www.openstreetmap.org/way/53274470) - [.wd.](https://www.wikidata.org/wiki/Q22975594) - Aqueduc Saint-Clément   
+[way98325368](https://www.openstreetmap.org/way/98325368)  - Aqueduc Saint-Clément   
+[way98325523](https://www.openstreetmap.org/way/98325523)  - Aqueduc Saint-Clément   
+[way101501814](https://www.openstreetmap.org/way/101501814)  - Aqueduc Saint-Clément   
+[way108105738](https://www.openstreetmap.org/way/108105738)  - Aqueduc Saint-Clément   
+[way108105739](https://www.openstreetmap.org/way/108105739)  - Aqueduc Saint-Clément   
+[way153784470](https://www.openstreetmap.org/way/153784470)  - Aqueduc Saint-Clément   
+[way153789211](https://www.openstreetmap.org/way/153789211)  - Aqueduc Saint-Clément   
+[way180959102](https://www.openstreetmap.org/way/180959102)  - Aqueduc Saint-Clément   
+[way180959104](https://www.openstreetmap.org/way/180959104)  - Aqueduc Saint-Clément   
+[way181431260](https://www.openstreetmap.org/way/181431260)  - Aqueduc Saint-Clément   
+[way184553114](https://www.openstreetmap.org/way/184553114)  - Aqueduc Saint-Clément   
+[way184766981](https://www.openstreetmap.org/way/184766981)  - Aqueduc Saint-Clément   
+[way194608503](https://www.openstreetmap.org/way/194608503)  - Aqueduc Saint-Clément   
+[way207013960](https://www.openstreetmap.org/way/207013960)  - Aqueduc Saint-Clément   
+[way230389481](https://www.openstreetmap.org/way/230389481)  - Aqueduc Saint-Clément   
+[way230389483](https://www.openstreetmap.org/way/230389483)  - Aqueduc Saint-Clément   
+[way237001618](https://www.openstreetmap.org/way/237001618)  - Aqueduc Saint-Clément   
+[way237001619](https://www.openstreetmap.org/way/237001619)  - Aqueduc Saint-Clément   
+[way237004637](https://www.openstreetmap.org/way/237004637)  - Aqueduc Saint-Clément   
+[way237004638](https://www.openstreetmap.org/way/237004638)  - Aqueduc Saint-Clément   
+[way237004639](https://www.openstreetmap.org/way/237004639)  - Aqueduc Saint-Clément   
+[way294989669](https://www.openstreetmap.org/way/294989669)  - Aqueduc Saint-Clément   
+[way294989670](https://www.openstreetmap.org/way/294989670)  - Aqueduc Saint-Clément   
+[way295289758](https://www.openstreetmap.org/way/295289758)  - Aqueduc Saint-Clément   
+[way295289759](https://www.openstreetmap.org/way/295289759)  - Aqueduc Saint-Clément   
+[way366325973](https://www.openstreetmap.org/way/366325973)  - Aqueduc de Saint-Clément   
+[way366345489](https://www.openstreetmap.org/way/366345489)  - Aqueduc Saint-Clément   
+[way366521951](https://www.openstreetmap.org/way/366521951)  - Aqueduc Saint-Clément   
+[way366521955](https://www.openstreetmap.org/way/366521955)  - Aqueduc de Saint-Clément   
+[way366716440](https://www.openstreetmap.org/way/366716440)  - Aqueduc Saint-Clément   
+[way366716441](https://www.openstreetmap.org/way/366716441)  - Aqueduc Saint-Clément   
+[way367149008](https://www.openstreetmap.org/way/367149008)  - Aqueduc de Saint-Clément   
+[way381984602](https://www.openstreetmap.org/way/381984602)  - ...   
+[way385486012](https://www.openstreetmap.org/way/385486012)  - Aqueduc Saint-Clément   
+[way385486013](https://www.openstreetmap.org/way/385486013)  - Aqueduc Saint-Clément   
+[way385620636](https://www.openstreetmap.org/way/385620636)  - Aqueduc de Saint-Clément   
+[way385620637](https://www.openstreetmap.org/way/385620637)  - Aqueduc de Saint-Clément   
+[way436018570](https://www.openstreetmap.org/way/436018570)  - Aqueduc Saint-Clément   
+[way445746695](https://www.openstreetmap.org/way/445746695)  - Aqueduc de Saint-Clément   
+[way558520491](https://www.openstreetmap.org/way/558520491)  - Aqueduc Saint-Clément   
+[way558520492](https://www.openstreetmap.org/way/558520492)  - Aqueduc Saint-Clément   
+[way560385094](https://www.openstreetmap.org/way/560385094)  - Aqueduc Saint-Clément   
+[way560385095](https://www.openstreetmap.org/way/560385095)  - Aqueduc Saint-Clément   
+[way560385096](https://www.openstreetmap.org/way/560385096)  - Aqueduc Saint-Clément   
+[way560385097](https://www.openstreetmap.org/way/560385097)  - Aqueduc Saint-Clément   
+[way560385098](https://www.openstreetmap.org/way/560385098)  - Aqueduc Saint-Clément   
+[way560385099](https://www.openstreetmap.org/way/560385099)  - Aqueduc Saint-Clément   
+[way560385100](https://www.openstreetmap.org/way/560385100)  - Aqueduc Saint-Clément   
+[way560544619](https://www.openstreetmap.org/way/560544619)  - ...   
+[way560544620](https://www.openstreetmap.org/way/560544620)  - Aqueduc Saint-Clément   
+
+**PA00113253**:   
+ [node3629434797](https://www.openstreetmap.org/node/3629434797) - [.wd.](https://www.wikidata.org/wiki/Q22965757) - Usines Schneider (anciennes), ou ancienne halle aux grues et aux machines   
+[way124756861](https://www.openstreetmap.org/way/124756861)  - Usines Schneider ou Ancienne Halle aux Grues et aux Machines   
+
+**PA00107664**:   
+ [node2063752937](https://www.openstreetmap.org/node/2063752937) - [.wd.](https://www.wikidata.org/wiki/Q20971151) - Immeubles   
+[node2063752955](https://www.openstreetmap.org/node/2063752955)  - Immeubles   
+[node2063752961](https://www.openstreetmap.org/node/2063752961)  - Immeubles   
+[node2063752968](https://www.openstreetmap.org/node/2063752968)  - Immeubles   
+[node2063752976](https://www.openstreetmap.org/node/2063752976)  - Immeubles   
+[node2063752985](https://www.openstreetmap.org/node/2063752985)  - Immeubles   
+[node2063752998](https://www.openstreetmap.org/node/2063752998)  - Immeubles   
+[node2063753005](https://www.openstreetmap.org/node/2063753005)  - Immeubles   
+[node2063753013](https://www.openstreetmap.org/node/2063753013)  - Immeubles   
+[node2063753022](https://www.openstreetmap.org/node/2063753022)  - Immeubles   
+[node2063753032](https://www.openstreetmap.org/node/2063753032)  - Immeubles   
+[node2063753039](https://www.openstreetmap.org/node/2063753039)  - Immeubles   
+[node2063753047](https://www.openstreetmap.org/node/2063753047)  - Immeubles   
+
+**PA75140003**:   
+ [way52090395](https://www.openstreetmap.org/way/52090395) - [.wd.](https://www.wikidata.org/wiki/Q3075432) - Pavillon Poincaré   
+[way52090396](https://www.openstreetmap.org/way/52090396)  - Pavillon Pasteur   
+[way52090397](https://www.openstreetmap.org/way/52090397)  - Pavillon Liard   
+[way260177830](https://www.openstreetmap.org/way/260177830)  - Pavillon Appell   
+[way260177831](https://www.openstreetmap.org/way/260177831) - [.wd.](https://www.wikidata.org/wiki/Q3075432) - Fondation Deutsch de la Meurthe   
+[way260177832](https://www.openstreetmap.org/way/260177832)  - Pavillon Gréard   
+[way260177833](https://www.openstreetmap.org/way/260177833)  - Pavillon Pierre et Marie Curie   
+
+**PA00109812**:   
+ [way25048982](https://www.openstreetmap.org/way/25048982) - [.wd.](https://www.wikidata.org/wiki/Q22962574) - Escalier de la Grande Poterne   
+[way79821323](https://www.openstreetmap.org/way/79821323)  - Escalier de la Grande Poterne   
+[way79821324](https://www.openstreetmap.org/way/79821324)  - Escalier de la Grande Poterne   
+
+**PA00108134**:   
+ [way144305167](https://www.openstreetmap.org/way/144305167) - [.wd.](https://www.wikidata.org/wiki/Q22961701) - Le 37   
+[way144305370](https://www.openstreetmap.org/way/144305370)  - ...   
+
+**PA00107668**:   
+ [node2063752865](https://www.openstreetmap.org/node/2063752865) - [.wd.](https://www.wikidata.org/wiki/Q22960860) - Immeubles   
+[node2063752869](https://www.openstreetmap.org/node/2063752869)  - Immeubles   
+[node2063752872](https://www.openstreetmap.org/node/2063752872)  - Immeubles   
+
+**PA00117991**:   
+ [way190125626](https://www.openstreetmap.org/way/190125626) - [.wd.](https://www.wikidata.org/wiki/Q22968132) - Mausolée romain de Satrius   
+[way190125627](https://www.openstreetmap.org/way/190125627) - [.wd.](https://www.wikidata.org/wiki/Q22968132) - Mausolée romain du Sévir Turpio   
+[way190125628](https://www.openstreetmap.org/way/190125628) - [.wd.](https://www.wikidata.org/wiki/Q22968132) - Mausolées romains de Julius Severianus, de Quintus Valerius et de Julia   
+
+**PA34000024**:   
+ [node4888379411](https://www.openstreetmap.org/node/4888379411)  - Château de bocaud   
+[relation2364120](https://www.openstreetmap.org/relation/2364120) - [.wd.](https://www.wikidata.org/wiki/Q2673929) - Château de Bocaud   
+
+**PA00084246**:   
+ [way122455415](https://www.openstreetmap.org/way/122455415) - [.wd.](https://www.wikidata.org/wiki/Q20127650) - Vieux Pont   
+[way122455738](https://www.openstreetmap.org/way/122455738) - [.wd.](https://www.wikidata.org/wiki/Q20127650) - Vieux Pont   
+
+**PA00088479**:   
+ [node264515098](https://www.openstreetmap.org/node/264515098) - [.wd.](https://www.wikidata.org/wiki/Q1598555) - Saint-Michel   
+[node5313856736](https://www.openstreetmap.org/node/5313856736)  - ...   
+[node5313856737](https://www.openstreetmap.org/node/5313856737)  - ...   
+
+**PA00089767**:   
+ [way303688772](https://www.openstreetmap.org/way/303688772)  - Château du Chalonge   
+[way399990179](https://www.openstreetmap.org/way/399990179) - [.wd.](https://www.wikidata.org/wiki/Q22925555) - Château du Chalonge   
+
+**PA00086785**:   
+ [node1224788605](https://www.openstreetmap.org/node/1224788605) - [.wd.](https://www.wikidata.org/wiki/Q517844) - ...   
+[node5313856740](https://www.openstreetmap.org/node/5313856740)  - ...   
+
+**PA00107210**:   
+ [way241528789](https://www.openstreetmap.org/way/241528789) - [.wd.](https://www.wikidata.org/wiki/Q2820639) - Abbaye de Moyenmoutier   
+[way484146745](https://www.openstreetmap.org/way/484146745) - [.wd.](https://www.wikidata.org/wiki/Q2820639) - Abbatiale Saint-Hydulphe   
+
+**PA73000002**:   
+ [way130890143](https://www.openstreetmap.org/way/130890143)  - Eglise, chapelles et oratoires   
+[way130890250](https://www.openstreetmap.org/way/130890250)  - Eglise, chapelles et oratoires   
+[way130890357](https://www.openstreetmap.org/way/130890357)  - Eglise, chapelles et oratoires   
+[way130890490](https://www.openstreetmap.org/way/130890490)  - Eglise, chapelles et oratoires   
+[way130891075](https://www.openstreetmap.org/way/130891075)  - Eglise, chapelles et oratoires   
+[way130891124](https://www.openstreetmap.org/way/130891124)  - Eglise, chapelles et oratoires   
+
+**PA34000011**:   
+ [way200576543](https://www.openstreetmap.org/way/200576543)  - ...   
+[way200576545](https://www.openstreetmap.org/way/200576545)  - ...   
+
+**PA00084987**:   
+ [way111596166](https://www.openstreetmap.org/way/111596166) - [.wd.](https://www.wikidata.org/wiki/Q15950813) - Hôtel de Ville   
+[way111626192](https://www.openstreetmap.org/way/111626192)  - Hôtel de Ville   
+
+**PA00101850**:   
+ [node5308852483](https://www.openstreetmap.org/node/5308852483)  - ...   
+[relation167014](https://www.openstreetmap.org/relation/167014)  - Médiathèque   
+
+**PA00132588**:   
+ [way92294579](https://www.openstreetmap.org/way/92294579) - [.wd.](https://www.wikidata.org/wiki/Q2974263) - Cirque   
+[way92304911](https://www.openstreetmap.org/way/92304911)  - Manège   
+
+**PA00089431**:   
+ [node3037701933](https://www.openstreetmap.org/node/3037701933) - [.wd.](https://www.wikidata.org/wiki/Q22925189) - ...   
+[way209804150](https://www.openstreetmap.org/way/209804150)  - Château du Leslac'h   
+
+**PA00092685**:   
+ [way292205689](https://www.openstreetmap.org/way/292205689)  - Jardin de l'abbaye   
+[way292205695](https://www.openstreetmap.org/way/292205695)  - Ruines des batiments abbatiaux   
+[way570367280](https://www.openstreetmap.org/way/570367280) - [.wd.](https://www.wikidata.org/wiki/Q334133) - Ancien logis de l'Abbesse   
+
+**PA69000032**:   
+ [way117687200](https://www.openstreetmap.org/way/117687200) - [.wd.](https://www.wikidata.org/wiki/Q18343335) - Séminaire Saint-Irénée   
+[way139304068](https://www.openstreetmap.org/way/139304068) - [.wd.](https://www.wikidata.org/wiki/Q18343335) - Maison Saint-Joseph   
+
+**PA00112384**:   
+ [node3691268166](https://www.openstreetmap.org/node/3691268166) - [.wd.](https://www.wikidata.org/wiki/Q22964709) - ...   
+[way259444482](https://www.openstreetmap.org/way/259444482) - [.wd.](https://www.wikidata.org/wiki/Q22964709) - ...   
+
+**PA00112332**:   
+ [node2628992076](https://www.openstreetmap.org/node/2628992076) - [.wd.](https://www.wikidata.org/wiki/Q15950703) - Hôtel de Vienne   
+[way257344265](https://www.openstreetmap.org/way/257344265) - [.wd.](https://www.wikidata.org/wiki/Q15950703) - Hôtel de Vienne   
+
+**PA00086631**:   
+ [node220289385](https://www.openstreetmap.org/node/220289385) - [.wd.](https://www.wikidata.org/wiki/Q1406323) - Mouton-Duvernet   
+[node2446477170](https://www.openstreetmap.org/node/2446477170) - [.wd.](https://www.wikidata.org/wiki/Q1406323) - Mouton-Duvernet - sortie   
+[node5313588572](https://www.openstreetmap.org/node/5313588572)  - ...   
+
+**PA00103360**:   
+ [way240191821](https://www.openstreetmap.org/way/240191821) - [.wd.](https://www.wikidata.org/wiki/Q2968149) - Château d'Assas   
+[way240192107](https://www.openstreetmap.org/way/240192107)  - Remparts   
+
+**PA00083637**:   
+ [way191416285](https://www.openstreetmap.org/way/191416285) - [.wd.](https://www.wikidata.org/wiki/Q589475) - Église Notre-Dame   
+[way325199772](https://www.openstreetmap.org/way/325199772) - [.wd.](https://www.wikidata.org/wiki/Q3580621) - Église Notre-Dame   
+
+**PA00101614**:   
+ [way42380868](https://www.openstreetmap.org/way/42380868) - [.wd.](https://www.wikidata.org/wiki/Q22952965) - Chemin du Sert   
+[way421483671](https://www.openstreetmap.org/way/421483671)  - Chemin du Sert   
+
+**PA11000005**:   
+ [node249434910](https://www.openstreetmap.org/node/249434910) - [.wd.](https://www.wikidata.org/wiki/Q22976272) - Obélisque - Seuil de Naurouze   
+[node249506572](https://www.openstreetmap.org/node/249506572)  - Seuil de Naurouze - Partage des Eaux   
+[node1731911428](https://www.openstreetmap.org/node/1731911428)  - Ancien Bassin de Naurouze   
+
+**PA00109847**:   
+ [way44147632](https://www.openstreetmap.org/way/44147632) - [.wd.](https://www.wikidata.org/wiki/Q22962609) - ...   
+[way67451448](https://www.openstreetmap.org/way/67451448)  - ...   
+
+**PA00109372**:   
+ [way100000472](https://www.openstreetmap.org/way/100000472) - [.wd.](https://www.wikidata.org/wiki/Q2820406) - ...   
+[way100000522](https://www.openstreetmap.org/way/100000522)  - ...   
+[way100000617](https://www.openstreetmap.org/way/100000617)  - Abbaye Saint-Maur de Glanfeuil   
+[way100000873](https://www.openstreetmap.org/way/100000873)  - ...   
+[way100001182](https://www.openstreetmap.org/way/100001182)  - ...   
+[way100001208](https://www.openstreetmap.org/way/100001208)  - ...   
+[way100001270](https://www.openstreetmap.org/way/100001270)  - ...   
+[way241550493](https://www.openstreetmap.org/way/241550493)  - Chapelle Saint-Martin   
+
+**PA59000088**:   
+ [way309108913](https://www.openstreetmap.org/way/309108913)  - Église Saint-Thomas-d’Aquin des DOminicains   
+[relation2142861](https://www.openstreetmap.org/relation/2142861) - [.wd.](https://www.wikidata.org/wiki/Q3001710) - Couvent des Dominicains   
+
+**PA00107682**:   
+ [node2063754186](https://www.openstreetmap.org/node/2063754186) - [.wd.](https://www.wikidata.org/wiki/Q22960870) - Maisons   
+[node2063754197](https://www.openstreetmap.org/node/2063754197)  - Maisons   
+[node2063754209](https://www.openstreetmap.org/node/2063754209)  - Maisons   
+
+**PA00107587**:   
+ [way40875682](https://www.openstreetmap.org/way/40875682) - [.wd.](https://www.wikidata.org/wiki/Q3140925) - Hospice Gantois   
+[relation252379](https://www.openstreetmap.org/relation/252379) - [.wd.](https://www.wikidata.org/wiki/Q3140925) - Hospice Gantois   
+
+**PA00086768**:   
+ [node1549563350](https://www.openstreetmap.org/node/1549563350) - [.wd.](https://www.wikidata.org/wiki/Q894930) - Botzaris   
+[node5313847651](https://www.openstreetmap.org/node/5313847651)  - ...   
+
+**PA62000114**:   
+ [way123638012](https://www.openstreetmap.org/way/123638012) - [.wd.](https://www.wikidata.org/wiki/Q3079637) - Ancienne Société de Secours Mutuels des Ouvriers et Employés des Mines de Béthune   
+[way326234835](https://www.openstreetmap.org/way/326234835)  - Ancienne Maison du Médecin-Chef   
+
+**PA34000056**:   
+ [way447773397](https://www.openstreetmap.org/way/447773397)  - Église Saint-Étienne de La Livinière   
+[way447773983](https://www.openstreetmap.org/way/447773983) - [.wd.](https://www.wikidata.org/wiki/Q22976747) - Église paroissiale Saint-Etienne   
+
+**PA00084361**:   
+ [node3027145235](https://www.openstreetmap.org/node/3027145235) - [.wd.](https://www.wikidata.org/wiki/Q20758246) - Cromlechs de Courraüs de Houndas   
+[node3027145236](https://www.openstreetmap.org/node/3027145236) - [.wd.](https://www.wikidata.org/wiki/Q20758246) - Cromlechs de Lous Couraus   
+
+**PA00086580**:   
+ [node5313588580](https://www.openstreetmap.org/node/5313588580)  - ...   
+[node5313588581](https://www.openstreetmap.org/node/5313588581)  - ...   
+
+**PA00083913**:   
+ [way191415878](https://www.openstreetmap.org/way/191415878) - [.wd.](https://www.wikidata.org/wiki/Q589475) - Maison   
+[way325199136](https://www.openstreetmap.org/way/325199136) - [.wd.](https://www.wikidata.org/wiki/Q3278538) - ...   
+
+**PA00109258**:   
+ [way238621130](https://www.openstreetmap.org/way/238621130) - [.wd.](https://www.wikidata.org/wiki/Q2820679) - ...   
+[way238622521](https://www.openstreetmap.org/way/238622521)  - ...   
+[way238624026](https://www.openstreetmap.org/way/238624026)  - ...   
+[way238624106](https://www.openstreetmap.org/way/238624106)  - ...   
+[way238624327](https://www.openstreetmap.org/way/238624327)  - ...   
+[way238745861](https://www.openstreetmap.org/way/238745861)  - Abbatiale Saint-Florent   
+[way238745862](https://www.openstreetmap.org/way/238745862)  - ...   
+
+**PA00086548**:   
+ [node440749838](https://www.openstreetmap.org/node/440749838) - [.wd.](https://www.wikidata.org/wiki/Q1970334) - Parmentier   
+[node5313392786](https://www.openstreetmap.org/node/5313392786)  - ...   
+
+**PA63000105**:   
+ [way183172337](https://www.openstreetmap.org/way/183172337) - [.wd.](https://www.wikidata.org/wiki/Q22997576) - Fortifications de Montferrand   
+[way183172341](https://www.openstreetmap.org/way/183172341) - [.wd.](https://www.wikidata.org/wiki/Q22997576) - Fortifications de Montferrand   
+
+**PA88000001**:   
+ [node771166181](https://www.openstreetmap.org/node/771166181)  - Fontaine des Dauphins   
+[node771166191](https://www.openstreetmap.org/node/771166191)  - Fontaine des Capucins   
+[node771166208](https://www.openstreetmap.org/node/771166208)  - Fontaine du Cygne   
+[node771166217](https://www.openstreetmap.org/node/771166217)  - Fontaine des Travailleurs   
+[node771337886](https://www.openstreetmap.org/node/771337886)  - Fontaine de Mesdames   
+[node860986609](https://www.openstreetmap.org/node/860986609)  - Fontaine de la Rue Maucervelle   
+[node1257915914](https://www.openstreetmap.org/node/1257915914)  - Fontaine de l'Empereur   
+[node1330781809](https://www.openstreetmap.org/node/1330781809)  - Fontaine des Olives   
+
+**PA00093555**:   
+ [way300156394](https://www.openstreetmap.org/way/300156394) - [.wd.](https://www.wikidata.org/wiki/Q22935438) - Porte Nord   
+[way363044946](https://www.openstreetmap.org/way/363044946)  - Porte Sud   
+
+**PA00109923**:   
+ [way339178647](https://www.openstreetmap.org/way/339178647) - [.wd.](https://www.wikidata.org/wiki/Q3286301) - ...   
+[way339179138](https://www.openstreetmap.org/way/339179138)  - ...   
+[way339179822](https://www.openstreetmap.org/way/339179822)  - ...   
+
+**PA00091009**:   
+ [way197226830](https://www.openstreetmap.org/way/197226830)  - Mausolée de Cadoudal   
+[way197227900](https://www.openstreetmap.org/way/197227900)  - Maison de Cadoudal   
+
+**PA26000026**:   
+ [node5163993390](https://www.openstreetmap.org/node/5163993390)  - Moulins à vent de la Mure   
+[node5163993391](https://www.openstreetmap.org/node/5163993391)  - Moulins à vent de la Mure   
+
+**PA00104182**:   
+ [way120241978](https://www.openstreetmap.org/way/120241978) - [.wd.](https://www.wikidata.org/wiki/Q2968153) - Château d'Aubiry   
+[way370208889](https://www.openstreetmap.org/way/370208889)  - ...   
+
+**PA00086702**:   
+ [node937176914](https://www.openstreetmap.org/node/937176914) - [.wd.](https://www.wikidata.org/wiki/Q1459231) - Victor Hugo   
+[node5313847663](https://www.openstreetmap.org/node/5313847663)  - ...   
+
+**PA00086549**:   
+ [node1291954620](https://www.openstreetmap.org/node/1291954620)  - Père Lachaise - sortie 2 - avenue de la République   
+[node5313392784](https://www.openstreetmap.org/node/5313392784)  - ...   
+
+**PA00093524**:   
+ [way338836089](https://www.openstreetmap.org/way/338836089) - [.wd.](https://www.wikidata.org/wiki/Q1661220) - Chapelle Saint-Blaise   
+[way338836092](https://www.openstreetmap.org/way/338836092) - [.wd.](https://www.wikidata.org/wiki/Q1661220) - Château de Val   
+
+**PA00092469**:   
+ [node4790469225](https://www.openstreetmap.org/node/4790469225) - [.wd.](https://www.wikidata.org/wiki/Q1775007) - Ancienne abbaye de Bellaigue   
+[way562754586](https://www.openstreetmap.org/way/562754586) - [.wd.](https://www.wikidata.org/wiki/Q1775007) - Abbaye Notre-Dame de Bellaigue   
+
+**PA00107641**:   
+ [node2063752750](https://www.openstreetmap.org/node/2063752750) - [.wd.](https://www.wikidata.org/wiki/Q22960831) - Immeuble   
+[node2063752754](https://www.openstreetmap.org/node/2063752754)  - Immeuble   
+
+**PA00112513**:   
+ [node5302997933](https://www.openstreetmap.org/node/5302997933)  - ...   
+[way292483039](https://www.openstreetmap.org/way/292483039) - [.wd.](https://www.wikidata.org/wiki/Q2969727) - Château de Longecourt-en-Plaine   
+
+**PA00092362**:   
+ [way149870330](https://www.openstreetmap.org/way/149870330) - [.wd.](https://www.wikidata.org/wiki/Q21962222) - Ossuaire   
+[way149870348](https://www.openstreetmap.org/way/149870348)  - Église Sainte-Claire   
+
+**PA00117560**:   
+ [node3701377813](https://www.openstreetmap.org/node/3701377813) - [.wd.](https://www.wikidata.org/wiki/Q22967292) - Chapelle Saint-Nicolas-du-Port   
+[way124612822](https://www.openstreetmap.org/way/124612822) - [.wd.](https://www.wikidata.org/wiki/Q22967292) - Chapelle Saint-Nicolas-du-Port   
+
+**PA00103673**:   
+ [way244353025](https://www.openstreetmap.org/way/244353025) - [.wd.](https://www.wikidata.org/wiki/Q22954107) - porte nord   
+[way244353029](https://www.openstreetmap.org/way/244353029)  - porte sud   
+
+**PA00086570**:   
+ [way115948337](https://www.openstreetmap.org/way/115948337) - [.wd.](https://www.wikidata.org/wiki/Q747541) - Gare de Lyon   
+[way406429774](https://www.openstreetmap.org/way/406429774) - [.wd.](https://www.wikidata.org/wiki/Q1810254) - Le train bleu   
+
+**PA00107720**:   
+ [way41503514](https://www.openstreetmap.org/way/41503514) - [.wd.](https://www.wikidata.org/wiki/Q3360909) - Palais Rameau   
+[way292068981](https://www.openstreetmap.org/way/292068981)  - jardin du palais Rameau   
+
+**PA81000020**:   
+ [way62843299](https://www.openstreetmap.org/way/62843299)  - Église Sainte-Croix   
+[way284165346](https://www.openstreetmap.org/way/284165346) - [.wd.](https://www.wikidata.org/wiki/Q21200957) - Église Sainte-Croix   
+
+**PA56000065**:   
+ [way294878140](https://www.openstreetmap.org/way/294878140) - [.wd.](https://www.wikidata.org/wiki/Q22979642) - Église Notre-Dame-de-Toute-Aide   
+[way294878144](https://www.openstreetmap.org/way/294878144) - [.wd.](https://www.wikidata.org/wiki/Q32104690) - Château des Forges de Lanouée   
+[way294878456](https://www.openstreetmap.org/way/294878456)  - ...   
+[way294878474](https://www.openstreetmap.org/way/294878474)  - ...   
+[way294878554](https://www.openstreetmap.org/way/294878554)  - ...   
+[way294878577](https://www.openstreetmap.org/way/294878577)  - ...   
+[way294878722](https://www.openstreetmap.org/way/294878722)  - ...   
+[way294878724](https://www.openstreetmap.org/way/294878724)  - ...   
+[way294879220](https://www.openstreetmap.org/way/294879220)  - ...   
+[way294879291](https://www.openstreetmap.org/way/294879291)  - ...   
+[way294879306](https://www.openstreetmap.org/way/294879306)  - ...   
+[way294879318](https://www.openstreetmap.org/way/294879318)  - ...   
+[way294879350](https://www.openstreetmap.org/way/294879350)  - ...   
+[way294879373](https://www.openstreetmap.org/way/294879373)  - ...   
+
+**PA00099959**:   
+ [way300043378](https://www.openstreetmap.org/way/300043378) - [.wd.](https://www.wikidata.org/wiki/Q22951218) - Chapelle du Saillant   
+[way300043603](https://www.openstreetmap.org/way/300043603)  - Chapelle du Saillant   
+
+**PA41000037**:   
+ [way176967752](https://www.openstreetmap.org/way/176967752) - [.wd.](https://www.wikidata.org/wiki/Q15953092) - Chemin Rural des Ponts Chartrains à Vineuil   
+[way183640956](https://www.openstreetmap.org/way/183640956)  - Route de Bracieux   
+
+**PA00103624**:   
+ [way426783345](https://www.openstreetmap.org/way/426783345)  - ...   
+[way426783358](https://www.openstreetmap.org/way/426783358) - [.wd.](https://www.wikidata.org/wiki/Q15953727) - Église Saint-Laurent   
+
+**PA00101814**:   
+ [node2476100158](https://www.openstreetmap.org/node/2476100158) - [.wd.](https://www.wikidata.org/wiki/Q2820428) - Ancienne abbaye   
+[way121640873](https://www.openstreetmap.org/way/121640873)  - Église Abbatiale Saint-Pierre   
+[relation1758330](https://www.openstreetmap.org/relation/1758330) - [.wd.](https://www.wikidata.org/wiki/Q2820428) - Abbaye de Baume-les-Messieurs   
+
+**PA00085639**:   
+ [way62094114](https://www.openstreetmap.org/way/62094114) - [.wd.](https://www.wikidata.org/wiki/Q15948780) - ...   
+[way62094115](https://www.openstreetmap.org/way/62094115)  - ...   
+[way62094116](https://www.openstreetmap.org/way/62094116)  - ...   
+[way62094117](https://www.openstreetmap.org/way/62094117)  - ...   
+[way62094118](https://www.openstreetmap.org/way/62094118)  - ...   
+[way62094119](https://www.openstreetmap.org/way/62094119)  - ...   
+[way62094120](https://www.openstreetmap.org/way/62094120)  - ...   
+
+**PA44000028**:   
+ [node1571221918](https://www.openstreetmap.org/node/1571221918) - [.wd.](https://www.wikidata.org/wiki/Q2971243) - Château de la Gascherie   
+[way129563974](https://www.openstreetmap.org/way/129563974) - [.wd.](https://www.wikidata.org/wiki/Q2971243) - ...   
+
+**PA00085989**:   
+ [node679476624](https://www.openstreetmap.org/node/679476624) - [.wd.](https://www.wikidata.org/wiki/Q1467113) - Palais-Royal Musée du Louvre - 1 - Musée du Louvre (Musée du Louvre)   
+[node679476628](https://www.openstreetmap.org/node/679476628)  - Palais-Royal Musée du Louvre - 2 - place du Palais Royal   
+[node679476632](https://www.openstreetmap.org/node/679476632)  - Palais-Royal Musée du Louvre - 3 - rue Saint-Honoré   
+[node679476635](https://www.openstreetmap.org/node/679476635)  - Palais-Royal Musée du Louvre - 4 - rue de Valois (Le Louvre des Antiquaires)   
+[node5312369721](https://www.openstreetmap.org/node/5312369721)  - ...   
+
+**PA00091953**:   
+ [way318462441](https://www.openstreetmap.org/way/318462441) - [.wd.](https://www.wikidata.org/wiki/Q2969577) - Château de la Roche   
+[way318462452](https://www.openstreetmap.org/way/318462452)  - Donjon   
+
+**PA00086920**:   
+ [way115414066](https://www.openstreetmap.org/way/115414066) - [.wd.](https://www.wikidata.org/wiki/Q5118879) - ...   
+[way115414068](https://www.openstreetmap.org/way/115414068) - [.wd.](https://www.wikidata.org/wiki/Q5118879) - Château du Houssoy   
+
+**PA00102794**:   
+ [way92057676](https://www.openstreetmap.org/way/92057676) - [.wd.](https://www.wikidata.org/wiki/Q22953447) - Collège Beauséjour   
+[way92071415](https://www.openstreetmap.org/way/92071415)  - Collège Beauséjour   
+
+**PA00117077**:   
+ [way32665962](https://www.openstreetmap.org/way/32665962) - [.wd.](https://www.wikidata.org/wiki/Q2055975) - Passerelle Marc Seguin   
+[way439429160](https://www.openstreetmap.org/way/439429160)  - Passerelle Marc Seguin   
+
+**PA00086611**:   
+ [node3241098980](https://www.openstreetmap.org/node/3241098980) - [.wd.](https://www.wikidata.org/wiki/Q22922105) - Boulangerie-Pâtisserie   
+[relation1212915](https://www.openstreetmap.org/relation/1212915) - [.wd.](https://www.wikidata.org/wiki/Q22922105) - Boulangerie-Patisserie   
+
+**PA00135534**:   
+ [way178160397](https://www.openstreetmap.org/way/178160397) - [.wd.](https://www.wikidata.org/wiki/Q2346103) - Gravelines   
+[way178163496](https://www.openstreetmap.org/way/178163496) - [.wd.](https://www.wikidata.org/wiki/Q2329350) - Beffroi   
+
+**PA00113290**:   
+ [way127343563](https://www.openstreetmap.org/way/127343563) - [.wd.](https://www.wikidata.org/wiki/Q22965788) - Fontaine de 1829   
+[way212787936](https://www.openstreetmap.org/way/212787936) - [.wd.](https://www.wikidata.org/wiki/Q22965787) - Fontaine aux Dauphins   
+
+**PA00112167**:   
+ [way70911043](https://www.openstreetmap.org/way/70911043) - [.wd.](https://www.wikidata.org/wiki/Q1775456) - ...   
+[way70911093](https://www.openstreetmap.org/way/70911093)  - Abbatiale cistercienne Notre-Dame des Trois-Vallées   
+[way123721955](https://www.openstreetmap.org/way/123721955)  - Cellier et pressoir   
+
+**PA00107631**:   
+ [node2063752928](https://www.openstreetmap.org/node/2063752928) - [.wd.](https://www.wikidata.org/wiki/Q22960817) - Immeubles   
+[node2063752946](https://www.openstreetmap.org/node/2063752946)  - Immeubles   
+
+**PA00092633**:   
+ [way292205664](https://www.openstreetmap.org/way/292205664) - [.wd.](https://www.wikidata.org/wiki/Q2820769) - Cour Lafayette   
+[way292205693](https://www.openstreetmap.org/way/292205693)  - Place de l'Écho   
+[way292205710](https://www.openstreetmap.org/way/292205710)  - ...   
+[way292205712](https://www.openstreetmap.org/way/292205712)  - ...   
+[way472733161](https://www.openstreetmap.org/way/472733161)  - ...   
+[way472733224](https://www.openstreetmap.org/way/472733224)  - ...   
+[way472733398](https://www.openstreetmap.org/way/472733398)  - Porte du For   
+[way472733593](https://www.openstreetmap.org/way/472733593)  - ...   
+[way472734201](https://www.openstreetmap.org/way/472734201) - [.wd.](https://www.wikidata.org/wiki/Q2820769) - Cloitre   
+[way472734240](https://www.openstreetmap.org/way/472734240)  - ...   
+[way472734530](https://www.openstreetmap.org/way/472734530)  - ...   
+[way472734852](https://www.openstreetmap.org/way/472734852)  - ...   
+
+**PA00112168**:   
+ [node2839217567](https://www.openstreetmap.org/node/2839217567)  - Croix monumentale   
+[way123757305](https://www.openstreetmap.org/way/123757305) - [.wd.](https://www.wikidata.org/wiki/Q22964451) - Grange dîmière   
+
+**PA00092181**:   
+ [way321220309](https://www.openstreetmap.org/way/321220309) - [.wd.](https://www.wikidata.org/wiki/Q18215262) - Château de Mauzun   
+[way321220310](https://www.openstreetmap.org/way/321220310)  - Château de Mauzun   
+
+**PA00086085**:   
+ [node685907579](https://www.openstreetmap.org/node/685907579) - [.wd.](https://www.wikidata.org/wiki/Q945229) - Quatre-Septembre - sortie   
+[node5312374429](https://www.openstreetmap.org/node/5312374429)  - ...   
+
+**PA00117558**:   
+ [node1994494909](https://www.openstreetmap.org/node/1994494909) - [.wd.](https://www.wikidata.org/wiki/Q22967290) - Château de la Bernarde et ses dépendances   
+[node3668774028](https://www.openstreetmap.org/node/3668774028)  - Château de la Bernarde   
+
+**PA34000092**:   
+ [way75319939](https://www.openstreetmap.org/way/75319939)  - Hôtel de Villarmois   
+[way75320772](https://www.openstreetmap.org/way/75320772) - [.wd.](https://www.wikidata.org/wiki/Q22976861) - Hôtel de Grave   
+[way75320817](https://www.openstreetmap.org/way/75320817)  - Hôtel de Noailles   
+
+**PA51000007**:   
+ [way90717289](https://www.openstreetmap.org/way/90717289) - [.wd.](https://www.wikidata.org/wiki/Q3389229) - Tennis club   
+[way224854137](https://www.openstreetmap.org/way/224854137)  - Piscine du tennis club   
+
+**PA00102061**:   
+ [node3717502168](https://www.openstreetmap.org/node/3717502168)  - Croix Boyon   
+[node5303425049](https://www.openstreetmap.org/node/5303425049)  - ...   
+
+**PA00086725**:   
+ [node2180096943](https://www.openstreetmap.org/node/2180096943) - [.wd.](https://www.wikidata.org/wiki/Q567806) - Rome   
+[node5313847661](https://www.openstreetmap.org/node/5313847661)  - ...   
+
+**PA00117176**:   
+ [way512794330](https://www.openstreetmap.org/way/512794330) - [.wd.](https://www.wikidata.org/wiki/Q3402982) - Ruines de l'Ancien Prieuré   
+[way512794332](https://www.openstreetmap.org/way/512794332) - [.wd.](https://www.wikidata.org/wiki/Q3402982) - Ruines de l'Ancien Prieuré   
+
+**PA00087745**:   
+ [way74630469](https://www.openstreetmap.org/way/74630469) - [.wd.](https://www.wikidata.org/wiki/Q22924015) - ...   
+[way74634863](https://www.openstreetmap.org/way/74634863)  - ...   
+
+**PA00107687**:   
+ [node2063753276](https://www.openstreetmap.org/node/2063753276) - [.wd.](https://www.wikidata.org/wiki/Q22960875) - Maison   
+[node2063753282](https://www.openstreetmap.org/node/2063753282)  - Maison   
+
+**PA00086155**:   
+ [way55035876](https://www.openstreetmap.org/way/55035876)  - ...   
+[way251136638](https://www.openstreetmap.org/way/251136638) - [.wd.](https://www.wikidata.org/wiki/Q1125932) - Hôtel de Rohan   
+[way251145783](https://www.openstreetmap.org/way/251145783) - [.wd.](https://www.wikidata.org/wiki/Q917337) - ...   
+[relation3371164](https://www.openstreetmap.org/relation/3371164) - [.wd.](https://www.wikidata.org/wiki/Q917337) - Hôtel de Soubise   
+
+**PA00086630**:   
+ [node282085302](https://www.openstreetmap.org/node/282085302) - [.wd.](https://www.wikidata.org/wiki/Q1187054) - Denfert-Rochereau - sortie 1   
+[node5313588573](https://www.openstreetmap.org/node/5313588573)  - ...   
+
+**PA63000057**:   
+ [way338222604](https://www.openstreetmap.org/way/338222604) - [.wd.](https://www.wikidata.org/wiki/Q22997524) - Château de Saint-Cirgues   
+[way338222605](https://www.openstreetmap.org/way/338222605)  - Château de Saint-Cirgues   
+
+**PA00107667**:   
+ [node2063752915](https://www.openstreetmap.org/node/2063752915) - [.wd.](https://www.wikidata.org/wiki/Q22960859) - Immeubles   
+[node2063752926](https://www.openstreetmap.org/node/2063752926)  - Immeubles   
+[node2063752949](https://www.openstreetmap.org/node/2063752949)  - Immeubles   
+[node2063752958](https://www.openstreetmap.org/node/2063752958)  - Immeubles   
+
+**PA00089635**:   
+ [way93280065](https://www.openstreetmap.org/way/93280065) - [.wd.](https://www.wikidata.org/wiki/Q22925383) - Église Saint-Judoce   
+[way93280989](https://www.openstreetmap.org/way/93280989)  - Ancienne église de Saint-Judoce   
+
+**PA00086508**:   
+ [node264512252](https://www.openstreetmap.org/node/264512252) - [.wd.](https://www.wikidata.org/wiki/Q1090753) - Château d'Eau   
+[node5313359005](https://www.openstreetmap.org/node/5313359005)  - ...   
+[node5313359006](https://www.openstreetmap.org/node/5313359006)  - ...   
+[node5527859168](https://www.openstreetmap.org/node/5527859168) - [.wd.](https://www.wikidata.org/wiki/Q1090753) - Château d'Eau   
+[node5527859170](https://www.openstreetmap.org/node/5527859170) - [.wd.](https://www.wikidata.org/wiki/Q1090753) - Château d'Eau   
+
+**PA00086510**:   
+ [node5313359001](https://www.openstreetmap.org/node/5313359001)  - ...   
+[node5313359002](https://www.openstreetmap.org/node/5313359002)  - ...   
+[node5313359003](https://www.openstreetmap.org/node/5313359003)  - ...   
+
+**PA00103457**:   
+ [node4827223922](https://www.openstreetmap.org/node/4827223922)  - ...   
+[way209493679](https://www.openstreetmap.org/way/209493679) - [.wd.](https://www.wikidata.org/wiki/Q22953863) - ...   
+
+**PA00092635**:   
+ [node2957453006](https://www.openstreetmap.org/node/2957453006)  - Tour Clémentine   
+[way472733070](https://www.openstreetmap.org/way/472733070) - [.wd.](https://www.wikidata.org/wiki/Q21013228) - Église abbatiale Saint-Robert   
+
+**PA00096860**:   
+ [node5238456617](https://www.openstreetmap.org/node/5238456617)  - Locature de la Gravière   
+[relation7745458](https://www.openstreetmap.org/relation/7745458)  - Locature de la Gravière   
+
+**PA00107648**:   
+ [node2063752825](https://www.openstreetmap.org/node/2063752825) - [.wd.](https://www.wikidata.org/wiki/Q22960839) - Immeubles   
+[node2063752829](https://www.openstreetmap.org/node/2063752829)  - Immeubles   
+[node2063752832](https://www.openstreetmap.org/node/2063752832)  - Immeubles   
+
+**PA00091916**:   
+ [way107813743](https://www.openstreetmap.org/way/107813743) - [.wd.](https://www.wikidata.org/wiki/Q22927848) - Maison du Poids public   
+[way310312782](https://www.openstreetmap.org/way/310312782)  - Mesure publique   
+[way310312783](https://www.openstreetmap.org/way/310312783)  - Pont du marché   
+
+**PA00117312**:   
+ [node4421681890](https://www.openstreetmap.org/node/4421681890) - [.wd.](https://www.wikidata.org/wiki/Q22967079) - Château de Verna   
+[way191362663](https://www.openstreetmap.org/way/191362663) - [.wd.](https://www.wikidata.org/wiki/Q22967079) - Château de Verna   
+
+**PA00108677**:   
+ [way74545053](https://www.openstreetmap.org/way/74545053) - [.wd.](https://www.wikidata.org/wiki/Q16008587) - ...   
+[way74545840](https://www.openstreetmap.org/way/74545840) - [.wd.](https://www.wikidata.org/wiki/Q16008587) - ...   
+
+**PA00107748**:   
+ [way40888074](https://www.openstreetmap.org/way/40888074)  - Porte de Mons   
+[relation3131203](https://www.openstreetmap.org/relation/3131203) - [.wd.](https://www.wikidata.org/wiki/Q22960921) - Remparts   
+
+**PA00097870**:   
+ [node3043609503](https://www.openstreetmap.org/node/3043609503) - [.wd.](https://www.wikidata.org/wiki/Q3036721) - Donjon de Montbazon   
+[way207791924](https://www.openstreetmap.org/way/207791924)  - Forteresse du Faucon Noir   
+[way434395100](https://www.openstreetmap.org/way/434395100) - [.wd.](https://www.wikidata.org/wiki/Q3036721) - Donjon de Montbazon   
+
+**PA00092740**:   
+ [way293079195](https://www.openstreetmap.org/way/293079195) - [.wd.](https://www.wikidata.org/wiki/Q22932102) - Château de Vachère   
+[way293079198](https://www.openstreetmap.org/way/293079198)  - Château de Vachères   
+
+**PA00103706**:   
+ [way339709924](https://www.openstreetmap.org/way/339709924) - [.wd.](https://www.wikidata.org/wiki/Q22954160) - Moulin de Roquemengarde   
+[way339709959](https://www.openstreetmap.org/way/339709959) - [.wd.](https://www.wikidata.org/wiki/Q22954160) - Moulin de Roquemengarde   
+
+**PA00086749**:   
+ [node775370153](https://www.openstreetmap.org/node/775370153) - [.wd.](https://www.wikidata.org/wiki/Q612971) - Anvers   
+[node5313847657](https://www.openstreetmap.org/node/5313847657)  - ...   
+
+**PA00081883**:   
+ [relation7719537](https://www.openstreetmap.org/relation/7719537) - [.wd.](https://www.wikidata.org/wiki/Q22916678) - Immeubles   
+[relation7719538](https://www.openstreetmap.org/relation/7719538) - [.wd.](https://www.wikidata.org/wiki/Q22916678) - Immeubles   
+
+**PA00100299**:   
+ [way540230825](https://www.openstreetmap.org/way/540230825) - [.wd.](https://www.wikidata.org/wiki/Q2740328) - Château de Montbrun   
+[way540231841](https://www.openstreetmap.org/way/540231841) - [.wd.](https://www.wikidata.org/wiki/Q2740328) - Château de Montbrun   
+
+**PA00094900**:   
+ [way297873111](https://www.openstreetmap.org/way/297873111) - [.wd.](https://www.wikidata.org/wiki/Q2388373) - Collégiale Saint-Pierre   
+[relation3961908](https://www.openstreetmap.org/relation/3961908)  - Cloître de la collégiale Saint-Pierre de La Romieu   
+
+**PA62000042**:   
+ [node4926771751](https://www.openstreetmap.org/node/4926771751)  - Château de Salperwick, également dénommé château de Saubruit   
+[way230549496](https://www.openstreetmap.org/way/230549496)  - Château de Saubruit   
+
+**PA00108715**:   
+ [way74544917](https://www.openstreetmap.org/way/74544917) - [.wd.](https://www.wikidata.org/wiki/Q17354682) - ...   
+[way74545307](https://www.openstreetmap.org/way/74545307)  - ...   
+
+**PA00091138**:   
+ [node870701456](https://www.openstreetmap.org/node/870701456) - [.wd.](https://www.wikidata.org/wiki/Q11682090) - Le Géant du Manio   
+[way233568514](https://www.openstreetmap.org/way/233568514)  - Quadrilatère du Manio   
+
+**PA00087929**:   
+ [way22899704](https://www.openstreetmap.org/way/22899704) - [.wd.](https://www.wikidata.org/wiki/Q3397360) - Pont des Belles Fontaines   
+[way22915349](https://www.openstreetmap.org/way/22915349)  - Pont des Belles Fontaines   
+[way41749162](https://www.openstreetmap.org/way/41749162)  - Pont des Belles Fontaines   
+[way44129989](https://www.openstreetmap.org/way/44129989)  - Pont des Belles Fontaines   
+[way219640831](https://www.openstreetmap.org/way/219640831)  - Pont des Belles Fontaines   
+
+**PA00098736**:   
+ [node2487671444](https://www.openstreetmap.org/node/2487671444) - [.wd.](https://www.wikidata.org/wiki/Q15943913) - Château de Chäteauneuf sur Loire   
+[way91175766](https://www.openstreetmap.org/way/91175766) - [.wd.](https://www.wikidata.org/wiki/Q15943913) - Mairie   
+
+**PA00125492**:   
+ [node2792745907](https://www.openstreetmap.org/node/2792745907) - [.wd.](https://www.wikidata.org/wiki/Q949411) - Château de Grézan   
+[way276382555](https://www.openstreetmap.org/way/276382555) - [.wd.](https://www.wikidata.org/wiki/Q949411) - Château de Grézan   
+
+**PA00087749**:   
+ [way74622715](https://www.openstreetmap.org/way/74622715) - [.wd.](https://www.wikidata.org/wiki/Q22924022) - ...   
+[way74631786](https://www.openstreetmap.org/way/74631786)  - ...   
+
+**PA00125441**:   
+ [node3894045295](https://www.openstreetmap.org/node/3894045295) - [.wd.](https://www.wikidata.org/wiki/Q860172) - Canal Saint-Martin   
+[relation1164565](https://www.openstreetmap.org/relation/1164565) - [.wd.](https://www.wikidata.org/wiki/Q860172) - Canal Saint-Martin   
+
+**PA00085312**:   
+ [way40191697](https://www.openstreetmap.org/way/40191697) - [.wd.](https://www.wikidata.org/wiki/Q3361024) - ...   
+[way40191698](https://www.openstreetmap.org/way/40191698)  - ...   
+[relation228029](https://www.openstreetmap.org/relation/228029) - [.wd.](https://www.wikidata.org/wiki/Q3361024) - Palais de Justice   
+
+**PA00108930**:   
+ [node2905099065](https://www.openstreetmap.org/node/2905099065) - [.wd.](https://www.wikidata.org/wiki/Q22962195) - Maison   
+[way126917902](https://www.openstreetmap.org/way/126917902) - [.wd.](https://www.wikidata.org/wiki/Q22962195) - ...   
+
+**PA00110344**:   
+ [way210288056](https://www.openstreetmap.org/way/210288056)  - ...   
+[way210288080](https://www.openstreetmap.org/way/210288080)  - Tour de l'Épine   
+[way210288088](https://www.openstreetmap.org/way/210288088)  - ...   
+[way210290189](https://www.openstreetmap.org/way/210290189)  - Tour de l'Horloge   
+[way536730024](https://www.openstreetmap.org/way/536730024) - [.wd.](https://www.wikidata.org/wiki/Q2968671) - Château de Bricquebec   
+[way536730029](https://www.openstreetmap.org/way/536730029)  - ...   
+[way536730030](https://www.openstreetmap.org/way/536730030)  - Le Donjon   
+
+**PA00080116**:   
+ [way501934703](https://www.openstreetmap.org/way/501934703) - [.wd.](https://www.wikidata.org/wiki/Q22916145) - Deux piliers   
+[way501934704](https://www.openstreetmap.org/way/501934704) - [.wd.](https://www.wikidata.org/wiki/Q22916145) - Deux piliers   
+
+**PA00101933**:   
+ [way82829624](https://www.openstreetmap.org/way/82829624) - [.wd.](https://www.wikidata.org/wiki/Q22953149) - ...   
+[relation3521503](https://www.openstreetmap.org/relation/3521503) - [.wd.](https://www.wikidata.org/wiki/Q22953149) - ...   
+
+**PA00107624**:   
+ [node2063753009](https://www.openstreetmap.org/node/2063753009) - [.wd.](https://www.wikidata.org/wiki/Q22960806) - Immeubles   
+[node2063753019](https://www.openstreetmap.org/node/2063753019)  - Immeubles   
+[node2063753025](https://www.openstreetmap.org/node/2063753025)  - Immeubles   
+[node2063753065](https://www.openstreetmap.org/node/2063753065)  - Immeubles   
+[node2063753073](https://www.openstreetmap.org/node/2063753073)  - Immeubles   
+[node2063753088](https://www.openstreetmap.org/node/2063753088)  - Immeubles   
+
+**PA00107336**:   
+ [way121731689](https://www.openstreetmap.org/way/121731689) - [.wd.](https://www.wikidata.org/wiki/Q22960599) - Pavillon Heudebert   
+[way121732030](https://www.openstreetmap.org/way/121732030)  - La Rotonde   
+
+**PA00082125**:   
+ [way95875666](https://www.openstreetmap.org/way/95875666) - [.wd.](https://www.wikidata.org/wiki/Q22671220) - Porte Notre-Dame   
+[way95881430](https://www.openstreetmap.org/way/95881430) - [.wd.](https://www.wikidata.org/wiki/Q22671220) - ...   
+[way95888893](https://www.openstreetmap.org/way/95888893) - [.wd.](https://www.wikidata.org/wiki/Q22671220) - Chapelle Notre-Dame   
+[way127482277](https://www.openstreetmap.org/way/127482277) - [.wd.](https://www.wikidata.org/wiki/Q22671220) - ...   
+
+**PA00086728**:   
+ [node243510679](https://www.openstreetmap.org/node/243510679) - [.wd.](https://www.wikidata.org/wiki/Q944564) - Wagram   
+[node5313847658](https://www.openstreetmap.org/node/5313847658)  - ...   
+
+**PA00109079**:   
+ [way236435597](https://www.openstreetmap.org/way/236435597) - [.wd.](https://www.wikidata.org/wiki/Q1775453) - Chœur de l'ancienne abbatiale   
+[way236435613](https://www.openstreetmap.org/way/236435613)  - ...   
+[way236435660](https://www.openstreetmap.org/way/236435660)  - Chapelle de la Vraie Croix   
+
+**PA00089565**:   
+ [way166477430](https://www.openstreetmap.org/way/166477430) - [.wd.](https://www.wikidata.org/wiki/Q22925316) - ...   
+[way166477534](https://www.openstreetmap.org/way/166477534) - [.wd.](https://www.wikidata.org/wiki/Q22925316) - ...   
+
+**PA00089670**:   
+ [node3028707036](https://www.openstreetmap.org/node/3028707036) - [.wd.](https://www.wikidata.org/wiki/Q22925417) - ...   
+[way82170250](https://www.openstreetmap.org/way/82170250) - [.wd.](https://www.wikidata.org/wiki/Q22925417) - Chapelle Notre-Dame de Bonne-Nouvelle   
+
+**PA00086632**:   
+ [node220289389](https://www.openstreetmap.org/node/220289389) - [.wd.](https://www.wikidata.org/wiki/Q1578058) - Raspail   
+[node1185590715](https://www.openstreetmap.org/node/1185590715) - [.wd.](https://www.wikidata.org/wiki/Q1578058) - Raspail   
+[node5313588571](https://www.openstreetmap.org/node/5313588571)  - ...   
+
+**PA00107358**:   
+ [node26691547](https://www.openstreetmap.org/node/26691547) - [.wd.](https://www.wikidata.org/wiki/Q2481155) - Bailleul   
+[way81172947](https://www.openstreetmap.org/way/81172947)  - Bailleul   
+
+**PA00125628**:   
+ [node2063753388](https://www.openstreetmap.org/node/2063753388) - [.wd.](https://www.wikidata.org/wiki/Q22969073) - Maison   
+[node2063753395](https://www.openstreetmap.org/node/2063753395)  - Maison   
+
+**PA00092831**:   
+ [way293373584](https://www.openstreetmap.org/way/293373584) - [.wd.](https://www.wikidata.org/wiki/Q22932532) - ...   
+[way441824651](https://www.openstreetmap.org/way/441824651)  - Église Notre-Dame de l'Assomption   
+
+**PA00092194**:   
+ [way53161153](https://www.openstreetmap.org/way/53161153) - [.wd.](https://www.wikidata.org/wiki/Q3090919) - Funiculaire du Capucin   
+[way144546102](https://www.openstreetmap.org/way/144546102) - [.wd.](https://www.wikidata.org/wiki/Q3090919) - ...   
+[way144548150](https://www.openstreetmap.org/way/144548150) - [.wd.](https://www.wikidata.org/wiki/Q3090919) - ...   
+
+**PA00092925**:   
+ [way292205626](https://www.openstreetmap.org/way/292205626) - [.wd.](https://www.wikidata.org/wiki/Q2968179) - Château d'Auzon   
+[way292331366](https://www.openstreetmap.org/way/292331366)  - Porte fortifiée de l'enceinte du chateau d'Auzon   
+
+**PA00103765**:   
+ [way208724829](https://www.openstreetmap.org/way/208724829) - [.wd.](https://www.wikidata.org/wiki/Q15953512) - Église Notre-Dame-d'Aix de Balaruc-les-Bains   
+[way208730249](https://www.openstreetmap.org/way/208730249)  - Église Notre-Dame-d'Aix de Balaruc-les-Bains   
+
+**PA00117289**:   
+ [node4421696590](https://www.openstreetmap.org/node/4421696590) - [.wd.](https://www.wikidata.org/wiki/Q22967060) - Château de Montagnieu   
+[way143728216](https://www.openstreetmap.org/way/143728216) - [.wd.](https://www.wikidata.org/wiki/Q22967060) - Château de Montagnieu   
+
+**PA00093681**:   
+ [way107166839](https://www.openstreetmap.org/way/107166839) - [.wd.](https://www.wikidata.org/wiki/Q22936498) - Maison Lacombe   
+[way107166970](https://www.openstreetmap.org/way/107166970)  - ...   
+
+**PA00104371**:   
+ [node2436947967](https://www.openstreetmap.org/node/2436947967) - [.wd.](https://www.wikidata.org/wiki/Q3034171) - La Grosse Perotte   
+[node2436947981](https://www.openstreetmap.org/node/2436947981) - [.wd.](https://www.wikidata.org/wiki/Q3034171) - La Petite Pérotte   
+
+**PA00084274**:   
+ [way119681995](https://www.openstreetmap.org/way/119681995)  - Porte de Paris   
+[way119789596](https://www.openstreetmap.org/way/119789596)  - Porte de Pujols   
+
+**PA00086473**:   
+ [way49734499](https://www.openstreetmap.org/way/49734499) - [.wd.](https://www.wikidata.org/wiki/Q3373109) - Pavillon du Roi   
+[way49734636](https://www.openstreetmap.org/way/49734636) - [.wd.](https://www.wikidata.org/wiki/Q3373109) - Pavillon du Roi   
+
+**PA00108133**:   
+ [way144278240](https://www.openstreetmap.org/way/144278240) - [.wd.](https://www.wikidata.org/wiki/Q22961700) - ...   
+[way144279136](https://www.openstreetmap.org/way/144279136)  - ...   
+
+**PA00086751**:   
+ [node775370156](https://www.openstreetmap.org/node/775370156) - [.wd.](https://www.wikidata.org/wiki/Q881406) - Blanche - sortie   
+[node5313847655](https://www.openstreetmap.org/node/5313847655)  - ...   
+
+**PA00100361**:   
+ [node4448809009](https://www.openstreetmap.org/node/4448809009)  - ...   
+[way70404320](https://www.openstreetmap.org/way/70404320) - [.wd.](https://www.wikidata.org/wiki/Q3146156) - ...   
+
+**PA00113142**:   
+ [way259969524](https://www.openstreetmap.org/way/259969524) - [.wd.](https://www.wikidata.org/wiki/Q22965651) - Église de la Conversion-de-Saint-Paul   
+[way331855513](https://www.openstreetmap.org/way/331855513) - [.wd.](https://www.wikidata.org/wiki/Q22965651) - ...   
+
+**PA00107663**:   
+ [node2063752908](https://www.openstreetmap.org/node/2063752908) - [.wd.](https://www.wikidata.org/wiki/Q22960857) - Immeubles   
+[node2063752912](https://www.openstreetmap.org/node/2063752912)  - Immeubles   
+[node2063752922](https://www.openstreetmap.org/node/2063752922)  - Immeubles   
+[node2063752927](https://www.openstreetmap.org/node/2063752927)  - Immeubles   
+
+**PA00109505**:   
+ [way275879207](https://www.openstreetmap.org/way/275879207) - [.wd.](https://www.wikidata.org/wiki/Q2820281) - Basilique Notre-Dame d'Évron   
+[way275879410](https://www.openstreetmap.org/way/275879410)  - ...   
+[way275879440](https://www.openstreetmap.org/way/275879440)  - ...   
+[way275886942](https://www.openstreetmap.org/way/275886942)  - ...   
+[way318026513](https://www.openstreetmap.org/way/318026513)  - ...   
+
+**PA00107155**:   
+ [node4854284217](https://www.openstreetmap.org/node/4854284217)  - ...   
+[way100797487](https://www.openstreetmap.org/way/100797487) - [.wd.](https://www.wikidata.org/wiki/Q22960463) - ...   
+
+**PA00091735**:   
+ [node1308188783](https://www.openstreetmap.org/node/1308188783) - [.wd.](https://www.wikidata.org/wiki/Q22927609) - Menhir Jeanne   
+[node4354605336](https://www.openstreetmap.org/node/4354605336)  - Menhir Jean   
+
+**PA00087707**:   
+ [node2287858557](https://www.openstreetmap.org/node/2287858557)  - ...   
+[way74620286](https://www.openstreetmap.org/way/74620286) - [.wd.](https://www.wikidata.org/wiki/Q22923964) - ...   
+
+**PA00102069**:   
+ [node5303097291](https://www.openstreetmap.org/node/5303097291)  - Croix de l'Entrée Sud-Ouest du Village   
+[node5303097292](https://www.openstreetmap.org/node/5303097292)  - Croix de l'Entrée Nord du Village   
+
+**PA00082387**:   
+ [way186743533](https://www.openstreetmap.org/way/186743533) - [.wd.](https://www.wikidata.org/wiki/Q3580406) - Église Notre-Dame-de-Bourg   
+[way439234737](https://www.openstreetmap.org/way/439234737) - [.wd.](https://www.wikidata.org/wiki/Q3580406) - Église Notre-Dame-de-Bourg   
+
+**PA00103459**:   
+ [way244151069](https://www.openstreetmap.org/way/244151069)  - Chapelle de souvenir Français   
+[way370189170](https://www.openstreetmap.org/way/370189170)  - Chemin de Croix   
+[way370189173](https://www.openstreetmap.org/way/370189173)  - Chemin de Croix   
+
+**PA00092743**:   
+ [way86358099](https://www.openstreetmap.org/way/86358099) - [.wd.](https://www.wikidata.org/wiki/Q1537302) - ...   
+[way86358734](https://www.openstreetmap.org/way/86358734)  - ...   
+[way86359613](https://www.openstreetmap.org/way/86359613) - [.wd.](https://www.wikidata.org/wiki/Q1537302) - Cathédrale Notre-Dame-de-l'Annonciation   
+[way86362866](https://www.openstreetmap.org/way/86362866)  - ...   
+[relation1285155](https://www.openstreetmap.org/relation/1285155) - [.wd.](https://www.wikidata.org/wiki/Q1537302) - Cloître de la Cathédrale du Puy-en-Velay   
+
+**PA00109801**:   
+ [way31265289](https://www.openstreetmap.org/way/31265289)  - Mairie du Mans   
+[way152996450](https://www.openstreetmap.org/way/152996450)  - ...   
+
+**PA63000093**:   
+ [node3153567233](https://www.openstreetmap.org/node/3153567233) - [.wd.](https://www.wikidata.org/wiki/Q16511390) - Site archéologique gallo-romain de la Croix de la Pierre (également sur commune de Beaulieu)   
+[relation4141945](https://www.openstreetmap.org/relation/4141945) - [.wd.](https://www.wikidata.org/wiki/Q16511390) - Site archéologique gallo-romain de la Croix de la Pierre (également sur commune de Beaulieu)   
+[relation4141946](https://www.openstreetmap.org/relation/4141946)  - Site archéologique gallo-romain de la Croix de la Pierre (également sur commune de Beaulieu)   
+
+**PA00107655**:   
+ [node2063753139](https://www.openstreetmap.org/node/2063753139) - [.wd.](https://www.wikidata.org/wiki/Q22960846) - Immeubles   
+[node2063753142](https://www.openstreetmap.org/node/2063753142)  - Immeubles   
+
+**PA00110012**:   
+ [way151222701](https://www.openstreetmap.org/way/151222701) - [.wd.](https://www.wikidata.org/wiki/Q15944416) - Château du Maurier   
+[way151222809](https://www.openstreetmap.org/way/151222809)  - ...   
+[way151223153](https://www.openstreetmap.org/way/151223153)  - ...   
+[way151223373](https://www.openstreetmap.org/way/151223373)  - Orangerie   
+
+**PA00089128**:   
+ [way95904518](https://www.openstreetmap.org/way/95904518) - [.wd.](https://www.wikidata.org/wiki/Q22924926) - ...   
+[way452899456](https://www.openstreetmap.org/way/452899456) - [.wd.](https://www.wikidata.org/wiki/Q22924926) - ...   
+
+**PA00087752**:   
+ [way74623472](https://www.openstreetmap.org/way/74623472) - [.wd.](https://www.wikidata.org/wiki/Q22924026) - ...   
+[way74624333](https://www.openstreetmap.org/way/74624333)  - ...   
+[way74625717](https://www.openstreetmap.org/way/74625717)  - ...   
+[way74633266](https://www.openstreetmap.org/way/74633266)  - ...   
+
+**PA34000019**:   
+ [way101323381](https://www.openstreetmap.org/way/101323381)  - Ermitage Saint-Pierre   
+[way101324005](https://www.openstreetmap.org/way/101324005)  - ...   
+
+**PA00107333**:   
+ [way121735882](https://www.openstreetmap.org/way/121735882) - [.wd.](https://www.wikidata.org/wiki/Q22960595) - Hôtel de l'Ermitage   
+[way121736585](https://www.openstreetmap.org/way/121736585)  - Grand Hôtel   
+
+**PA00091959**:   
+ [way175130506](https://www.openstreetmap.org/way/175130506) - [.wd.](https://www.wikidata.org/wiki/Q22928042) - ...   
+[way175130525](https://www.openstreetmap.org/way/175130525) - [.wd.](https://www.wikidata.org/wiki/Q22928042) - Abbaye de Mégemont   
+
+**PA00111209**:   
+ [way62090684](https://www.openstreetmap.org/way/62090684) - [.wd.](https://www.wikidata.org/wiki/Q3580519) - Église Notre-Dame de Campigny   
+[way334087235](https://www.openstreetmap.org/way/334087235) - [.wd.](https://www.wikidata.org/wiki/Q3580519) - Église Notre-Dame   
+
+**PA00089074**:   
+ [node2443190793](https://www.openstreetmap.org/node/2443190793) - [.wd.](https://www.wikidata.org/wiki/Q22924871) - Ancien couvent des Dominicaines   
+[way95906707](https://www.openstreetmap.org/way/95906707) - [.wd.](https://www.wikidata.org/wiki/Q22924871) - Ancien couvent des dominicaines   
+
+**PA00092378**:   
+ [node3171490966](https://www.openstreetmap.org/node/3171490966) - [.wd.](https://www.wikidata.org/wiki/Q22931225) - ...   
+[node3171490967](https://www.openstreetmap.org/node/3171490967)  - ...   
+
+**PA00113330**:   
+ [node2885278402](https://www.openstreetmap.org/node/2885278402) - [.wd.](https://www.wikidata.org/wiki/Q22965824) - Maison   
+[way51293256](https://www.openstreetmap.org/way/51293256)  - ...   
+
+**PA00109552**:   
+ [way67766287](https://www.openstreetmap.org/way/67766287) - [.wd.](https://www.wikidata.org/wiki/Q3398896) - Porte Beucheresse   
+[way67770528](https://www.openstreetmap.org/way/67770528) - [.wd.](https://www.wikidata.org/wiki/Q3398896) - Porte Beucheresse   
+[way67771134](https://www.openstreetmap.org/way/67771134) - [.wd.](https://www.wikidata.org/wiki/Q21009480) - Tour Rennaise   
+[way67772540](https://www.openstreetmap.org/way/67772540) - [.wd.](https://www.wikidata.org/wiki/Q3398896) - Porte Beucheresse   
+[way67772820](https://www.openstreetmap.org/way/67772820)  - Tour Belot-Oissel   
+[way67777525](https://www.openstreetmap.org/way/67777525) - [.wd.](https://www.wikidata.org/wiki/Q14627548) - ...   
+[way67778198](https://www.openstreetmap.org/way/67778198) - [.wd.](https://www.wikidata.org/wiki/Q14627548) - ...   
+[way67782696](https://www.openstreetmap.org/way/67782696) - [.wd.](https://www.wikidata.org/wiki/Q14627548) - ...   
+[way67787696](https://www.openstreetmap.org/way/67787696) - [.wd.](https://www.wikidata.org/wiki/Q14627548) - ...   
+
+**PA00086657**:   
+ [node411533639](https://www.openstreetmap.org/node/411533639) - [.wd.](https://www.wikidata.org/wiki/Q1578103) - Pasteur - sortie   
+[node5313588570](https://www.openstreetmap.org/node/5313588570)  - ...   
+
+**PA00117783**:   
+ [way29179429](https://www.openstreetmap.org/way/29179429)  - Basilique de Fourvière   
+[way60752859](https://www.openstreetmap.org/way/60752859)  - Crypte de Fourvière   
+
+**PA00107639**:   
+ [node2063752905](https://www.openstreetmap.org/node/2063752905) - [.wd.](https://www.wikidata.org/wiki/Q22960829) - Immeubles   
+[node2063752919](https://www.openstreetmap.org/node/2063752919)  - Immeubles   
+[node2063752952](https://www.openstreetmap.org/node/2063752952)  - Immeubles   
+[node2063752964](https://www.openstreetmap.org/node/2063752964)  - Immeubles   
+[node2063752994](https://www.openstreetmap.org/node/2063752994)  - Immeubles   
+
+**PA00087191**:   
+ [node4251284392](https://www.openstreetmap.org/node/4251284392)  - Église   
+[way309421238](https://www.openstreetmap.org/way/309421238) - [.wd.](https://www.wikidata.org/wiki/Q22923005) - Église Saint-Ferréol   
+
+**PA00135215**:   
+ [way107811186](https://www.openstreetmap.org/way/107811186) - [.wd.](https://www.wikidata.org/wiki/Q22975895) - Hôtel de Ville   
+[way107811965](https://www.openstreetmap.org/way/107811965)  - Hôtel de ville   
+[way107814940](https://www.openstreetmap.org/way/107814940)  - Hôtel de ville   
+
+**PA00103419**:   
+ [node1912811112](https://www.openstreetmap.org/node/1912811112) - [.wd.](https://www.wikidata.org/wiki/Q22953837) - Noria avec son mécanisme   
+[node3045450743](https://www.openstreetmap.org/node/3045450743)  - ...   
+
+**PA00107620**:   
+ [node2063753089](https://www.openstreetmap.org/node/2063753089) - [.wd.](https://www.wikidata.org/wiki/Q22960802) - Immeubles   
+[node2063753092](https://www.openstreetmap.org/node/2063753092)  - Immeubles   
+
+**PA00125623**:   
+ [node2063753406](https://www.openstreetmap.org/node/2063753406) - [.wd.](https://www.wikidata.org/wiki/Q22969066) - Maison   
+[node2063753409](https://www.openstreetmap.org/node/2063753409)  - Maison   
+
+**PA00086724**:   
+ [node822766509](https://www.openstreetmap.org/node/822766509) - [.wd.](https://www.wikidata.org/wiki/Q1717241) - Monceau   
+[node3670563992](https://www.openstreetmap.org/node/3670563992) - [.wd.](https://www.wikidata.org/wiki/Q1717241) - Métropolitain, station Monceau   
+[node5313847662](https://www.openstreetmap.org/node/5313847662)  - Monceau   
+
+**PA00086753**:   
+ [node518330273](https://www.openstreetmap.org/node/518330273) - [.wd.](https://www.wikidata.org/wiki/Q610012) - Place de Clichy   
+[node5313847652](https://www.openstreetmap.org/node/5313847652)  - ...   
+[node5313847653](https://www.openstreetmap.org/node/5313847653)  - ...   
+
+**PA39000099**:   
+ [way252889699](https://www.openstreetmap.org/way/252889699) - [.wd.](https://www.wikidata.org/wiki/Q22996757) - Château de Montmirey-la-Ville   
+[way354210489](https://www.openstreetmap.org/way/354210489)  - Château de Montmirey-la-Ville   
+
+**PA00107567**:   
+ [node2063752339](https://www.openstreetmap.org/node/2063752339)  - Abbaye de Loos   
+[node2063752348](https://www.openstreetmap.org/node/2063752348)  - Abbaye de Loos   
+[node2063752354](https://www.openstreetmap.org/node/2063752354)  - Abbaye de Loos   
+[node2063752357](https://www.openstreetmap.org/node/2063752357)  - Abbaye de Loos   
+[node2063752360](https://www.openstreetmap.org/node/2063752360)  - Abbaye de Loos   
+
+**PA00102725**:   
+ [way251261604](https://www.openstreetmap.org/way/251261604) - [.wd.](https://www.wikidata.org/wiki/Q3533421) - Tour de Plaisance   
+[way311027325](https://www.openstreetmap.org/way/311027325) - [.wd.](https://www.wikidata.org/wiki/Q3533421) - ...   
+
+**PA00089073**:   
+ [node3798330945](https://www.openstreetmap.org/node/3798330945) - [.wd.](https://www.wikidata.org/wiki/Q3001695) - ...   
+[way95904301](https://www.openstreetmap.org/way/95904301) - [.wd.](https://www.wikidata.org/wiki/Q3001695) - Les Cordeliers (Ancien couvent des Franciscains)   
+
+**PA00110700**:   
+ [way124979105](https://www.openstreetmap.org/way/124979105) - [.wd.](https://www.wikidata.org/wiki/Q22963475) - ...   
+[way124979956](https://www.openstreetmap.org/way/124979956) - [.wd.](https://www.wikidata.org/wiki/Q22963475) - ...   
+
+**PA00107644**:   
+ [node2063752878](https://www.openstreetmap.org/node/2063752878) - [.wd.](https://www.wikidata.org/wiki/Q22960834) - Immeubles   
+[node2063752882](https://www.openstreetmap.org/node/2063752882)  - Immeubles   
+[node2063752891](https://www.openstreetmap.org/node/2063752891)  - Immeubles   
+[node2063752901](https://www.openstreetmap.org/node/2063752901)  - Immeubles   
+
+**PA00109880**:   
+ [way301577635](https://www.openstreetmap.org/way/301577635) - [.wd.](https://www.wikidata.org/wiki/Q2971680) - Poterne   
+[way301578546](https://www.openstreetmap.org/way/301578546)  - ...   
+
+**PA00113113**:   
+ [way147485308](https://www.openstreetmap.org/way/147485308) - [.wd.](https://www.wikidata.org/wiki/Q1062714) - Château des Moines de Cluny   
+[way147485972](https://www.openstreetmap.org/way/147485972)  - Chapelle des Moines   
+
+**PA00112409**:   
+ [node2648562762](https://www.openstreetmap.org/node/2648562762) - [.wd.](https://www.wikidata.org/wiki/Q22964738) - Maison dite Le Petit Cîteaux   
+[node3691268162](https://www.openstreetmap.org/node/3691268162) - [.wd.](https://www.wikidata.org/wiki/Q22964738) - Le Petit Cîteaux   
+
+**PA00093909**:   
+ [way493206486](https://www.openstreetmap.org/way/493206486) - [.wd.](https://www.wikidata.org/wiki/Q2942375) - Cathédrale Saint-Lizier   
+[relation3082115](https://www.openstreetmap.org/relation/3082115) - [.wd.](https://www.wikidata.org/wiki/Q2942375) - Cloître   
+[relation3252743](https://www.openstreetmap.org/relation/3252743)  - Ancienne cathédrale et cloître   
+
+**PA00086561**:   
+ [way78052740](https://www.openstreetmap.org/way/78052740) - [.wd.](https://www.wikidata.org/wiki/Q2887732) - ...   
+[way225410145](https://www.openstreetmap.org/way/225410145) - [.wd.](https://www.wikidata.org/wiki/Q2887732) - Bastion n°1   
+
+**PA00087056**:   
+ [node4299633090](https://www.openstreetmap.org/node/4299633090)  - Église   
+[way341711107](https://www.openstreetmap.org/way/341711107) - [.wd.](https://www.wikidata.org/wiki/Q22922863) - Église Saint-Laurent   
+
+**PA00103396**:   
+ [way278823254](https://www.openstreetmap.org/way/278823254) - [.wd.](https://www.wikidata.org/wiki/Q2511495) - Château de Cazilhac   
+[way278823261](https://www.openstreetmap.org/way/278823261)  - Médical Tubing   
+
+**PA00086923**:   
+ [relation4308543](https://www.openstreetmap.org/relation/4308543) - [.wd.](https://www.wikidata.org/wiki/Q333989) - Abbaye royale Notre-Dame du Lys   
+[relation4308544](https://www.openstreetmap.org/relation/4308544) - [.wd.](https://www.wikidata.org/wiki/Q333989) - Abbaye royale Notre-Dame du Lys   
+
+**PA00082083**:   
+ [node3567670416](https://www.openstreetmap.org/node/3567670416) - [.wd.](https://www.wikidata.org/wiki/Q22986487) - Porte Neuve   
+[way93916448](https://www.openstreetmap.org/way/93916448) - [.wd.](https://www.wikidata.org/wiki/Q22986487) - Porte Neuve   
+
+**PA00089108**:   
+ [way95902894](https://www.openstreetmap.org/way/95902894) - [.wd.](https://www.wikidata.org/wiki/Q22924908) - ...   
+[way95906575](https://www.openstreetmap.org/way/95906575) - [.wd.](https://www.wikidata.org/wiki/Q22924908) - ...   
+
+**PA00112469**:   
+ [way53863112](https://www.openstreetmap.org/way/53863112) - [.wd.](https://www.wikidata.org/wiki/Q22964780) - ...   
+[way360795207](https://www.openstreetmap.org/way/360795207) - [.wd.](https://www.wikidata.org/wiki/Q22964780) - ...   
+
+**PA00099482**:   
+ [way225851772](https://www.openstreetmap.org/way/225851772) - [.wd.](https://www.wikidata.org/wiki/Q22950520) - Église Saint-Pierre et Saint-Paul   
+[way226251556](https://www.openstreetmap.org/way/226251556) - [.wd.](https://www.wikidata.org/wiki/Q22950520) - Église Saint-Aubin   
+
+**PA00108809**:   
+ [node2302220351](https://www.openstreetmap.org/node/2302220351) - [.wd.](https://www.wikidata.org/wiki/Q21253222) - Dolmen de Kerbourg B   
+[node2302220352](https://www.openstreetmap.org/node/2302220352) - [.wd.](https://www.wikidata.org/wiki/Q21334438) - Dolmen de Kerbourg A   
+
+**PA00117177**:   
+ [way223403614](https://www.openstreetmap.org/way/223403614) - [.wd.](https://www.wikidata.org/wiki/Q22966982) - Tour de l'Isle   
+[way490570800](https://www.openstreetmap.org/way/490570800)  - ...   
+
+**PA00107651**:   
+ [node2063753143](https://www.openstreetmap.org/node/2063753143) - [.wd.](https://www.wikidata.org/wiki/Q22960842) - Immeubles   
+[node2063753144](https://www.openstreetmap.org/node/2063753144)  - Immeubles   
+[node2063753148](https://www.openstreetmap.org/node/2063753148)  - Immeubles   
+
+**PA00116339**:   
+ [way127527620](https://www.openstreetmap.org/way/127527620) - [.wd.](https://www.wikidata.org/wiki/Q3280308) - ...   
+[way127527909](https://www.openstreetmap.org/way/127527909) - [.wd.](https://www.wikidata.org/wiki/Q3280308) - Maison Gorrevod   
+
+**PA45000039**:   
+ [node5043361279](https://www.openstreetmap.org/node/5043361279) - [.wd.](https://www.wikidata.org/wiki/Q22997026) - Grange pyramidale de la Fontaine Bénat   
+[way529316804](https://www.openstreetmap.org/way/529316804) - [.wd.](https://www.wikidata.org/wiki/Q22997026) - Grange pyramidale de la Fontaine Bénat   
+
+**PA00085990**:   
+ [way549957079](https://www.openstreetmap.org/way/549957079)  - ...   
+[way549957080](https://www.openstreetmap.org/way/549957080)  - ...   
+
+**PA39000071**:   
+ [way80782902](https://www.openstreetmap.org/way/80782902) - [.wd.](https://www.wikidata.org/wiki/Q15952773) - Monastère Sainte-Colette des Clarisses de Poligny   
+[way361060686](https://www.openstreetmap.org/way/361060686)  - Monastère des Clarisses   
+
+**PA00084976**:   
+ [way111299599](https://www.openstreetmap.org/way/111299599)  - Ancien Arsenal Saint-Hilaire   
+[way111668017](https://www.openstreetmap.org/way/111668017) - [.wd.](https://www.wikidata.org/wiki/Q14627775) - Arsenal Saint-Hilaire   
+
+**PA11000028**:   
+ [node2459312819](https://www.openstreetmap.org/node/2459312819) - [.wd.](https://www.wikidata.org/wiki/Q2970611) - Château de Sallèles d'Aude   
+[node2459312820](https://www.openstreetmap.org/node/2459312820) - [.wd.](https://www.wikidata.org/wiki/Q751876) - Château   
+
+**PA33000021**:   
+ [way220126171](https://www.openstreetmap.org/way/220126171) - [.wd.](https://www.wikidata.org/wiki/Q22996517) - Maison Rateau   
+[way220126405](https://www.openstreetmap.org/way/220126405) - [.wd.](https://www.wikidata.org/wiki/Q22996517) - Château Bouliac   
+
+**PA00101124**:   
+ [node3681362096](https://www.openstreetmap.org/node/3681362096)  - Manoir d'Epaville   
+[way118831270](https://www.openstreetmap.org/way/118831270) - [.wd.](https://www.wikidata.org/wiki/Q22952235) - Manoir d'Épaville   
+
+**PA00094476**:   
+ [way79024424](https://www.openstreetmap.org/way/79024424) - [.wd.](https://www.wikidata.org/wiki/Q22938492) - Église Saint-Sauveur   
+[way251317030](https://www.openstreetmap.org/way/251317030) - [.wd.](https://www.wikidata.org/wiki/Q22938492) - Saint-Pantaléon   
+
+**PA00092853**:   
+ [way290615215](https://www.openstreetmap.org/way/290615215) - [.wd.](https://www.wikidata.org/wiki/Q5118840) - Ruines du château   
+[way472335847](https://www.openstreetmap.org/way/472335847)  - Ancienne chapelle   
+
+**PA33000105**:   
+ [way160470924](https://www.openstreetmap.org/way/160470924) - [.wd.](https://www.wikidata.org/wiki/Q22996559) - Chantiers Tramasset   
+[way160485567](https://www.openstreetmap.org/way/160485567) - [.wd.](https://www.wikidata.org/wiki/Q22996559) - Petit chantier, Chantiers Tramasset   
+
+**PA00102859**:   
+ [node1736041575](https://www.openstreetmap.org/node/1736041575) - [.wd.](https://www.wikidata.org/wiki/Q22953499) - Église rurale de Saint-André   
+[node2013487161](https://www.openstreetmap.org/node/2013487161)  - Église rurale de Saint-André (ancienne)   
+
+**PA00092689**:   
+ [way292331374](https://www.openstreetmap.org/way/292331374) - [.wd.](https://www.wikidata.org/wiki/Q3402942) - ...   
+[way434928747](https://www.openstreetmap.org/way/434928747)  - ...   
+
+**PA00086560**:   
+ [way63638975](https://www.openstreetmap.org/way/63638975) - [.wd.](https://www.wikidata.org/wiki/Q2885674) - Barrière du Trône - Saint-Louis   
+[way77385192](https://www.openstreetmap.org/way/77385192) - [.wd.](https://www.wikidata.org/wiki/Q2885674) - Barrière du Trône - Philippe Auguste   
+
+**PA00086698**:   
+ [node993132899](https://www.openstreetmap.org/node/993132899) - [.wd.](https://www.wikidata.org/wiki/Q274534) - Église-d'Auteuil   
+[node5313588565](https://www.openstreetmap.org/node/5313588565)  - ...   
+
+**PA00086701**:   
+ [node1000218091](https://www.openstreetmap.org/node/1000218091) - [.wd.](https://www.wikidata.org/wiki/Q1578078) - Porte d'Auteuil   
+[node5313847664](https://www.openstreetmap.org/node/5313847664)  - ...   
+
+**PA00112252**:   
+ [node2648562752](https://www.openstreetmap.org/node/2648562752) - [.wd.](https://www.wikidata.org/wiki/Q22964530) - Castel situé dans le lycée technique du Castel   
+[node3691218213](https://www.openstreetmap.org/node/3691218213)  - Castel   
+
+**PA00100813**:   
+ [node4553713568](https://www.openstreetmap.org/node/4553713568)  - Église Saint-Candé et ancien Hôtel Asselin   
+[way532497105](https://www.openstreetmap.org/way/532497105) - [.wd.](https://www.wikidata.org/wiki/Q3580918) - Tour Saint-Candé   
+
+**PA00109706**:   
+ [way232830340](https://www.openstreetmap.org/way/232830340) - [.wd.](https://www.wikidata.org/wiki/Q15953166) - ...   
+[way232830352](https://www.openstreetmap.org/way/232830352)  - ...   
+[way232830354](https://www.openstreetmap.org/way/232830354)  - Église abbatiale Notre-Dame   
+[way232830532](https://www.openstreetmap.org/way/232830532)  - ...   
+
+**PA00087741**:   
+ [way74619744](https://www.openstreetmap.org/way/74619744) - [.wd.](https://www.wikidata.org/wiki/Q22924010) - ...   
+[way74620611](https://www.openstreetmap.org/way/74620611)  - ...   
+[way74622798](https://www.openstreetmap.org/way/74622798)  - ...   
+[way74623641](https://www.openstreetmap.org/way/74623641)  - ...   
+[way74624133](https://www.openstreetmap.org/way/74624133)  - ...   
+[way74625830](https://www.openstreetmap.org/way/74625830)  - ...   
+
+**PA11000038**:   
+ [node2512682825](https://www.openstreetmap.org/node/2512682825) - [.wd.](https://www.wikidata.org/wiki/Q22995573) - Monument commémoratif d'Ernest Ferroul   
+[node3802879867](https://www.openstreetmap.org/node/3802879867)  - Monument commémoratif d'Ernest Ferroul   
+
+**PA00086639**:   
+ [way79804243](https://www.openstreetmap.org/way/79804243) - [.wd.](https://www.wikidata.org/wiki/Q3558753) - Maison de Mademoiselle Quillé   
+[way79804247](https://www.openstreetmap.org/way/79804247) - [.wd.](https://www.wikidata.org/wiki/Q3558753) - Maison Huggler   
+[way79804474](https://www.openstreetmap.org/way/79804474)  - Maison Goerg et Gromaire   
+[way79804661](https://www.openstreetmap.org/way/79804661) - [.wd.](https://www.wikidata.org/wiki/Q3558753) - Maison Townshend   
+[way79804798](https://www.openstreetmap.org/way/79804798) - [.wd.](https://www.wikidata.org/wiki/Q3558753) - ...   
+[way79804977](https://www.openstreetmap.org/way/79804977) - [.wd.](https://www.wikidata.org/wiki/Q3558753) - Maison de Jean Lurçat   
+[way79805532](https://www.openstreetmap.org/way/79805532) - [.wd.](https://www.wikidata.org/wiki/Q3558753) - Maison de Pierre Bertrand   
+
+**PA72000016**:   
+ [way135692769](https://www.openstreetmap.org/way/135692769) - [.wd.](https://www.wikidata.org/wiki/Q3582155) - Église Saint-Jouin   
+[way135692773](https://www.openstreetmap.org/way/135692773)  - ...   
+
+**PA00080902**:   
+ [node1673389437](https://www.openstreetmap.org/node/1673389437) - [.wd.](https://www.wikidata.org/wiki/Q2859215) - Aqueduc de Clausonnes, d'Antipolis ou des Bouillides   
+[way154871305](https://www.openstreetmap.org/way/154871305) - [.wd.](https://www.wikidata.org/wiki/Q2859215) - Aqueduc de Clausonnes, d'Antipolis ou des Bouillides   
+[way154871311](https://www.openstreetmap.org/way/154871311)  - Aqueduc de Clausonnes, d'Antipolis ou des Bouillides   
+
+**PA00113347**:   
+ [way285443648](https://www.openstreetmap.org/way/285443648) - [.wd.](https://www.wikidata.org/wiki/Q3583798) - Église de Brancion   
+[way285444023](https://www.openstreetmap.org/way/285444023)  - Église de Brancion   
+
+**PA00107619**:   
+ [node2063753042](https://www.openstreetmap.org/node/2063753042) - [.wd.](https://www.wikidata.org/wiki/Q22960800) - Immeubles   
+[node2063753051](https://www.openstreetmap.org/node/2063753051)  - Immeubles   
+[node2063753058](https://www.openstreetmap.org/node/2063753058)  - Immeubles   
+[node2063753061](https://www.openstreetmap.org/node/2063753061)  - Immeubles   
+
+**PA00133018**:   
+ [way120849316](https://www.openstreetmap.org/way/120849316) - [.wd.](https://www.wikidata.org/wiki/Q3118108) - Collège Condorcet   
+[way202967217](https://www.openstreetmap.org/way/202967217)  - École maternelle Marie Jean Antoine Caritat Condorcet   
+
+**PA00094675**:   
+ [way22392906](https://www.openstreetmap.org/way/22392906) - [.wd.](https://www.wikidata.org/wiki/Q22938906) - Bassin de Radoub   
+[way63801343](https://www.openstreetmap.org/way/63801343)  - Gare d'eau   
+[way63801606](https://www.openstreetmap.org/way/63801606)  - ...   
+[way180868995](https://www.openstreetmap.org/way/180868995)  - Cale couverte   
+[way180868996](https://www.openstreetmap.org/way/180868996)  - Cale sèche   
+[way180868997](https://www.openstreetmap.org/way/180868997)  - Cale sèche   
+
+**PA00117269**:   
+ [node4300869724](https://www.openstreetmap.org/node/4300869724) - [.wd.](https://www.wikidata.org/wiki/Q22967042) - Pont Perent sur le Guiers-Mort   
+[way430809063](https://www.openstreetmap.org/way/430809063) - [.wd.](https://www.wikidata.org/wiki/Q22967042) - Pont Perent sur le Guiers-Mort   
+
+**PA00091947**:   
+ [way62799687](https://www.openstreetmap.org/way/62799687) - [.wd.](https://www.wikidata.org/wiki/Q22927981) - Château de la Bâtisse   
+[way310267102](https://www.openstreetmap.org/way/310267102)  - Château de la Bâtisse   
+
+**PA00112351**:   
+ [node2648532092](https://www.openstreetmap.org/node/2648532092) - [.wd.](https://www.wikidata.org/wiki/Q22964596) - ...   
+[node3757189418](https://www.openstreetmap.org/node/3757189418) - [.wd.](https://www.wikidata.org/wiki/Q22964596) - ...   
+
+**PA00092036**:   
+ [node3798451480](https://www.openstreetmap.org/node/3798451480) - [.wd.](https://www.wikidata.org/wiki/Q22928248) - Mur des Sarrasins   
+[way376410580](https://www.openstreetmap.org/way/376410580) - [.wd.](https://www.wikidata.org/wiki/Q22928248) - Mur des Sarrasins   
+
+**PA00107594**:   
+ [node2063752535](https://www.openstreetmap.org/node/2063752535) - [.wd.](https://www.wikidata.org/wiki/Q17630181) - Hôtel Bidé de la Grandville   
+[node2063752538](https://www.openstreetmap.org/node/2063752538)  - Hôtel Bidé de la Grandville   
+
+**PA00084462**:   
+ [node3980345286](https://www.openstreetmap.org/node/3980345286) - [.wd.](https://www.wikidata.org/wiki/Q22920788) - Sol d'Assiette du Château Médiéval dit La Casterasse   
+[way62595552](https://www.openstreetmap.org/way/62595552) - [.wd.](https://www.wikidata.org/wiki/Q22920788) - La Poudrière   
+[way395146065](https://www.openstreetmap.org/way/395146065)  - Enceinte bastionnée   
+[way395146074](https://www.openstreetmap.org/way/395146074)  - Enceinte bastionnée   
+[way395146077](https://www.openstreetmap.org/way/395146077)  - Enceinte bastionnée   
+[way395146090](https://www.openstreetmap.org/way/395146090)  - Bastion de la Clochette   
+[way395146091](https://www.openstreetmap.org/way/395146091)  - Bastion des Contremines   
+[way395146092](https://www.openstreetmap.org/way/395146092)  - Bastion des Noyers   
+[way395146094](https://www.openstreetmap.org/way/395146094)  - Bastion des Échos   
+[way395146095](https://www.openstreetmap.org/way/395146095)  - Bastion du Parapet   
+[way395146109](https://www.openstreetmap.org/way/395146109)  - Enceinte bastionnée   
+[way395146110](https://www.openstreetmap.org/way/395146110)  - Enceinte bastionnée   
+[way395146111](https://www.openstreetmap.org/way/395146111)  - Enceinte bastionnée   
+[way395146112](https://www.openstreetmap.org/way/395146112)  - Enceinte bastionnée   
+[way395146113](https://www.openstreetmap.org/way/395146113)  - Enceinte bastionnée   
+
+**PA00112248**:   
+ [node4266219120](https://www.openstreetmap.org/node/4266219120)  - ...   
+[way41820700](https://www.openstreetmap.org/way/41820700) - [.wd.](https://www.wikidata.org/wiki/Q22964521) - Cellier de Clairvaux   
+
+**PA00093554**:   
+ [way300154808](https://www.openstreetmap.org/way/300154808) - [.wd.](https://www.wikidata.org/wiki/Q22935434) - Église Notre-Dame de l'Assomption   
+[way300154821](https://www.openstreetmap.org/way/300154821)  - Réfectoire des Moines   
+[way300154914](https://www.openstreetmap.org/way/300154914)  - ...   
+
+**PA00101139**:   
+ [way79762896](https://www.openstreetmap.org/way/79762896)  - Hôtel de Ville   
+[relation1201637](https://www.openstreetmap.org/relation/1201637) - [.wd.](https://www.wikidata.org/wiki/Q22952241) - Mairie   
+
+**PA00086599**:   
+ [node2527916266](https://www.openstreetmap.org/node/2527916266) - [.wd.](https://www.wikidata.org/wiki/Q683208) - Campo-Formio   
+[node5313588578](https://www.openstreetmap.org/node/5313588578)  - ...   
+
+**PA00091354**:   
+ [node1270157883](https://www.openstreetmap.org/node/1270157883) - [.wd.](https://www.wikidata.org/wiki/Q2957017) - Chapelle de Saint-Urlô   
+[way62904297](https://www.openstreetmap.org/way/62904297)  - Chapelle Saint-Urlo avec sa fontaine   
+
+**PA00118041**:   
+ [node4921340136](https://www.openstreetmap.org/node/4921340136)  - Château (ancien)   
+[relation7339247](https://www.openstreetmap.org/relation/7339247) - [.wd.](https://www.wikidata.org/wiki/Q22968201) - Ancien Château   
+
+**PA00109792**:   
+ [way318450243](https://www.openstreetmap.org/way/318450243) - [.wd.](https://www.wikidata.org/wiki/Q2969777) - Château de Malicorne-sur-Sarthe   
+[way318450249](https://www.openstreetmap.org/way/318450249)  - Pavillon d'Entrée   
+
+**PA00108902**:   
+ [way126915834](https://www.openstreetmap.org/way/126915834) - [.wd.](https://www.wikidata.org/wiki/Q22962136) - ...   
+[way126923737](https://www.openstreetmap.org/way/126923737)  - ...   
+
+**PA00087736**:   
+ [way74624998](https://www.openstreetmap.org/way/74624998) - [.wd.](https://www.wikidata.org/wiki/Q22924004) - ...   
+[way74625503](https://www.openstreetmap.org/way/74625503)  - ...   
+[way74628035](https://www.openstreetmap.org/way/74628035)  - ...   
+[way74628525](https://www.openstreetmap.org/way/74628525)  - ...   
+
+**PA00109858**:   
+ [node4022760834](https://www.openstreetmap.org/node/4022760834)  - ...   
+[way25048996](https://www.openstreetmap.org/way/25048996) - [.wd.](https://www.wikidata.org/wiki/Q22962675) - Rue du Doyenné   
+
+**PA00103665**:   
+ [way406651221](https://www.openstreetmap.org/way/406651221)  - Domaine de Régismont   
+[way406651690](https://www.openstreetmap.org/way/406651690)  - Domaine de Régismont   
+[way406651780](https://www.openstreetmap.org/way/406651780)  - Domaine de Régismont   
+
+**PA00108658**:   
+ [way27532467](https://www.openstreetmap.org/way/27532467) - [.wd.](https://www.wikidata.org/wiki/Q17624875) - Parc du Grand Blottereau   
+[way284552928](https://www.openstreetmap.org/way/284552928) - [.wd.](https://www.wikidata.org/wiki/Q17624875) - Château du Grand Blottereau   
+
+**PA00081979**:   
+ [way73794323](https://www.openstreetmap.org/way/73794323) - [.wd.](https://www.wikidata.org/wiki/Q15945239) - Chapelle Saint-Blaise   
+[way545062119](https://www.openstreetmap.org/way/545062119)  - Tour de Bauzon   
+
+**PA00086699**:   
+ [node5313588563](https://www.openstreetmap.org/node/5313588563)  - ...   
+[node5313588564](https://www.openstreetmap.org/node/5313588564)  - ...   
+
+**PA00087721**:   
+ [way74620748](https://www.openstreetmap.org/way/74620748) - [.wd.](https://www.wikidata.org/wiki/Q22923982) - ...   
+[way74630384](https://www.openstreetmap.org/way/74630384)  - ...   
+[way74632024](https://www.openstreetmap.org/way/74632024)  - ...   
+
+**PA00107681**:   
+ [node2063753420](https://www.openstreetmap.org/node/2063753420)  - Maison   
+[way35959420](https://www.openstreetmap.org/way/35959420) - [.wd.](https://www.wikidata.org/wiki/Q22960869) - ...   
+
+**PA00088702**:   
+ [node4785118715](https://www.openstreetmap.org/node/4785118715)  - Hôtel Cassini ou Pecci-Blunt   
+[way68571376](https://www.openstreetmap.org/way/68571376) - [.wd.](https://www.wikidata.org/wiki/Q3145785) - Hôtel de Cassini   
+
+**PA47000051**:   
+ [way422929986](https://www.openstreetmap.org/way/422929986) - [.wd.](https://www.wikidata.org/wiki/Q22979401) - Château de Guillery   
+[way422929987](https://www.openstreetmap.org/way/422929987) - [.wd.](https://www.wikidata.org/wiki/Q22979401) - Château de Guillery   
+
+**PA00086600**:   
+ [node5313588576](https://www.openstreetmap.org/node/5313588576)  - ...   
+[node5313588577](https://www.openstreetmap.org/node/5313588577)  - ...   
+
+**PA00102933**:   
+ [relation465784](https://www.openstreetmap.org/relation/465784) - [.wd.](https://www.wikidata.org/wiki/Q2820702) - Saint-Polycarpe A   
+[relation6903055](https://www.openstreetmap.org/relation/6903055) - [.wd.](https://www.wikidata.org/wiki/Q2820702) - Saint-Polycarpe   
+
+**PA00092645**:   
+ [way292381059](https://www.openstreetmap.org/way/292381059) - [.wd.](https://www.wikidata.org/wiki/Q333854) - Chapelle Saint-Nectaire   
+[way292381070](https://www.openstreetmap.org/way/292381070)  - Prieuré(restes du cloître et enceinte)   
+[way292381073](https://www.openstreetmap.org/way/292381073)  - ...   
+[way292381076](https://www.openstreetmap.org/way/292381076)  - ...   
+
+**PA00086697**:   
+ [node5313588566](https://www.openstreetmap.org/node/5313588566)  - ...   
+[node5313588567](https://www.openstreetmap.org/node/5313588567)  - ...   
+
+**PA00112414**:   
+ [way41890754](https://www.openstreetmap.org/way/41890754) - [.wd.](https://www.wikidata.org/wiki/Q15950411) - Hôtel Bénigne Malyon   
+[way257975438](https://www.openstreetmap.org/way/257975438) - [.wd.](https://www.wikidata.org/wiki/Q3268613) - Lycée général et technologique Carnot   
+
+**PA00113247**:   
+ [way228853608](https://www.openstreetmap.org/way/228853608) - [.wd.](https://www.wikidata.org/wiki/Q22965755) - Église de Chazelles   
+[way228854518](https://www.openstreetmap.org/way/228854518)  - Église de Chazelles   
+
+**PA00094497**:   
+ [way10157283](https://www.openstreetmap.org/way/10157283) - [.wd.](https://www.wikidata.org/wiki/Q2351013) - Capitole - Mairie de Toulouse   
+[relation367073](https://www.openstreetmap.org/relation/367073) - [.wd.](https://www.wikidata.org/wiki/Q2351013) - Le Capitole   
+
+**PA39000012**:   
+ [way82836468](https://www.openstreetmap.org/way/82836468) - [.wd.](https://www.wikidata.org/wiki/Q22996684) - ...   
+[way82837123](https://www.openstreetmap.org/way/82837123)  - ...   
+[way82839710](https://www.openstreetmap.org/way/82839710)  - ...   
+[relation3521504](https://www.openstreetmap.org/relation/3521504) - [.wd.](https://www.wikidata.org/wiki/Q22996684) - ...   
+
+**PA00089542**:   
+ [way119296436](https://www.openstreetmap.org/way/119296436) - [.wd.](https://www.wikidata.org/wiki/Q22925294) - ...   
+[way119296633](https://www.openstreetmap.org/way/119296633)  - ...   
+
+**PA00104090**:   
+ [node1657298085](https://www.openstreetmap.org/node/1657298085) - [.wd.](https://www.wikidata.org/wiki/Q3028584) - Fort de Bellegarde   
+[way64608902](https://www.openstreetmap.org/way/64608902)  - Redoute de Panissars   
+
+**PA00112958**:   
+ [node4151969192](https://www.openstreetmap.org/node/4151969192) - [.wd.](https://www.wikidata.org/wiki/Q3280120) - Carré Blanc   
+[way126002844](https://www.openstreetmap.org/way/126002844)  - Maison dite du Prieur de l'abbaye de Saint-Martin   
+
+**PA00089303**:   
+ [node4313655097](https://www.openstreetmap.org/node/4313655097) - [.wd.](https://www.wikidata.org/wiki/Q2820400) - Abbaye Saint-Magloire   
+[relation5483693](https://www.openstreetmap.org/relation/5483693) - [.wd.](https://www.wikidata.org/wiki/Q2820400) - Ruines de l'ancien prieuré royal de Saint-Magloire   
+
+**PA00113292**:   
+ [way127342266](https://www.openstreetmap.org/way/127342266) - [.wd.](https://www.wikidata.org/wiki/Q22965790) - Hôtel de Ville   
+[way127342286](https://www.openstreetmap.org/way/127342286)  - Hôtel de Ville   
+[way211696141](https://www.openstreetmap.org/way/211696141)  - Hôtel de Ville   
+
+**PA00092355**:   
+ [way148982058](https://www.openstreetmap.org/way/148982058) - [.wd.](https://www.wikidata.org/wiki/Q3581594) - Église Saint-Georges   
+[way309951450](https://www.openstreetmap.org/way/309951450)  - Portail   
+
+**PA76000020**:   
+ [node1846760789](https://www.openstreetmap.org/node/1846760789) - [.wd.](https://www.wikidata.org/wiki/Q22980357) - Grues hydrauliques   
+[node4546873104](https://www.openstreetmap.org/node/4546873104)  - Grues hydrauliques   
+
+**PA00135696**:   
+ [node206325488](https://www.openstreetmap.org/node/206325488) - [.wd.](https://www.wikidata.org/wiki/Q1751300) - Stèle commémorative   
+[node1967439773](https://www.openstreetmap.org/node/1967439773) - [.wd.](https://www.wikidata.org/wiki/Q1751300) - Pont Gisclard et stèle commémorative   
+[way80524807](https://www.openstreetmap.org/way/80524807)  - Ligne de Cerdagne   
+
+**PA42000026**:   
+ [node1994494902](https://www.openstreetmap.org/node/1994494902) - [.wd.](https://www.wikidata.org/wiki/Q22996905) - Château de Neubourg   
+[way71641058](https://www.openstreetmap.org/way/71641058) - [.wd.](https://www.wikidata.org/wiki/Q22996905) - Château de Neubourg   
+
+**PA00135145**:   
+ [node1789715818](https://www.openstreetmap.org/node/1789715818) - [.wd.](https://www.wikidata.org/wiki/Q15954136) - ...   
+[way216085458](https://www.openstreetmap.org/way/216085458) - [.wd.](https://www.wikidata.org/wiki/Q15954136) - Église Protestante   
+
+**PA31000011**:   
+ [way46670981](https://www.openstreetmap.org/way/46670981) - [.wd.](https://www.wikidata.org/wiki/Q22976661) - Rempart médiéval   
+[way61962202](https://www.openstreetmap.org/way/61962202)  - Rempart médiéval de Toulouse   
+[way149748682](https://www.openstreetmap.org/way/149748682)  - Rempart médiéval   
+[way149748684](https://www.openstreetmap.org/way/149748684)  - Rempart médiéval   
+[way149748685](https://www.openstreetmap.org/way/149748685)  - Rempart médiéval   
+[way336983576](https://www.openstreetmap.org/way/336983576)  - Rempart médiéval   
+[way336983577](https://www.openstreetmap.org/way/336983577)  - ...   
+
+**PA00112478**:   
+ [way182862024](https://www.openstreetmap.org/way/182862024) - [.wd.](https://www.wikidata.org/wiki/Q22964791) - Château des abbés de Citeaux   
+[way182862141](https://www.openstreetmap.org/way/182862141)  - ...   
+
+**PA00086586**:   
+ [way217512457](https://www.openstreetmap.org/way/217512457) - [.wd.](https://www.wikidata.org/wiki/Q22922093) - Pavillon de l'ancienne douane   
+[way217512527](https://www.openstreetmap.org/way/217512527) - [.wd.](https://www.wikidata.org/wiki/Q22922093) - Pavillon de la barrière d'eau   
+
+**PA00113285**:   
+ [way127342296](https://www.openstreetmap.org/way/127342296) - [.wd.](https://www.wikidata.org/wiki/Q22965783) - Cellier aux Moines   
+[way127342407](https://www.openstreetmap.org/way/127342407) - [.wd.](https://www.wikidata.org/wiki/Q22965783) - Cellier aux Moines   
+
+**PA00107569**:   
+ [node2063754374](https://www.openstreetmap.org/node/2063754374) - [.wd.](https://www.wikidata.org/wiki/Q3557929) - Vieille bourse du commerce   
+[node2063754381](https://www.openstreetmap.org/node/2063754381)  - Vieille bourse du commerce   
+[node2063754387](https://www.openstreetmap.org/node/2063754387)  - Vieille bourse du commerce   
+[node2063754395](https://www.openstreetmap.org/node/2063754395)  - Vieille bourse du commerce   
+[node2063754402](https://www.openstreetmap.org/node/2063754402)  - Vieille bourse du commerce   
+[node2063754408](https://www.openstreetmap.org/node/2063754408)  - Vieille bourse du commerce   
+[node2063754416](https://www.openstreetmap.org/node/2063754416)  - Vieille bourse du commerce   
+[node2063754422](https://www.openstreetmap.org/node/2063754422)  - Vieille bourse du commerce   
+[node2063754429](https://www.openstreetmap.org/node/2063754429)  - Vieille bourse du commerce   
+[node2063754435](https://www.openstreetmap.org/node/2063754435)  - Vieille bourse du commerce   
+[node2063754439](https://www.openstreetmap.org/node/2063754439)  - Vieille bourse du commerce   
+[node2063754453](https://www.openstreetmap.org/node/2063754453)  - Vieille bourse du commerce   
+[node2063754461](https://www.openstreetmap.org/node/2063754461)  - Vieille bourse du commerce   
+[node2063754468](https://www.openstreetmap.org/node/2063754468)  - Vieille bourse du commerce   
+[node2063754473](https://www.openstreetmap.org/node/2063754473)  - Vieille bourse du commerce   
+[node2063754480](https://www.openstreetmap.org/node/2063754480)  - Vieille bourse du commerce   
+[node2063754487](https://www.openstreetmap.org/node/2063754487)  - Vieille bourse du commerce   
+[node2063754497](https://www.openstreetmap.org/node/2063754497)  - Vieille bourse du commerce   
+[node2063754504](https://www.openstreetmap.org/node/2063754504)  - Vieille bourse du commerce   
+[node2063754510](https://www.openstreetmap.org/node/2063754510)  - Vieille bourse du commerce   
+[node2063754518](https://www.openstreetmap.org/node/2063754518)  - Vieille bourse du commerce   
+[node2063754548](https://www.openstreetmap.org/node/2063754548)  - Vieille bourse du commerce   
+[node2063754556](https://www.openstreetmap.org/node/2063754556)  - Vieille bourse du commerce   
+[node2063754565](https://www.openstreetmap.org/node/2063754565)  - Vieille bourse du commerce   
+
+**PA75100008**:   
+ [way76928239](https://www.openstreetmap.org/way/76928239) - [.wd.](https://www.wikidata.org/wiki/Q1498170) - Médiathèque Françoise-Sagan   
+[way76928245](https://www.openstreetmap.org/way/76928245)  - Chapelle Saint-Lazare   
+[way76928254](https://www.openstreetmap.org/way/76928254)  - ...   
+[way76928260](https://www.openstreetmap.org/way/76928260)  - ...   
+
+**PA00091076**:   
+ [way27013324](https://www.openstreetmap.org/way/27013324) - [.wd.](https://www.wikidata.org/wiki/Q1739286) - Alignement de Kermario   
+[way27013333](https://www.openstreetmap.org/way/27013333) - [.wd.](https://www.wikidata.org/wiki/Q1739286) - Alignement de Kermario   
+[way27013348](https://www.openstreetmap.org/way/27013348) - [.wd.](https://www.wikidata.org/wiki/Q1739286) - Alignement de Kermario   
+
+**PA00086509**:   
+ [node775375800](https://www.openstreetmap.org/node/775375800) - [.wd.](https://www.wikidata.org/wiki/Q1110656) - Colonel Fabien - sortie   
+[node5313359004](https://www.openstreetmap.org/node/5313359004)  - ...   
+
